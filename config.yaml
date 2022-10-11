@@ -10,7 +10,7 @@ permalinks:
 params:
   description: Contribua com o futuro de uma criança ensinando lógica de programação de uma forma lúdica.
   homeMetaContent: Contribua com o futuro de uma criança ensinando lógica de programação de uma forma lúdica.
-  footer: Feito com [Hugo](https://gohugo.io/). Tema por [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
+  footer: Feito com [Hugo](https://gohugo.io/). Tema [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: 2, Jan, 2006
   katex: true
