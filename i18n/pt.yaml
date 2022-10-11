@@ -23,6 +23,6 @@
 - id: aria_label_tags
   translation: tags
 - id: search_placeholder
-  translation: Buscar por título...
+  translation: "Buscar por título..."
 - id: search_aria_label
-  translation: Buscar por título
+  translation: "Buscar por título"

@@ -1,5 +1,6 @@
 baseURL: 'http://www.ensineumacrianca.com.br/'
 languageCode: 'pt-BR'
+defaultContentLanguage: 'pt'
 title: 'Ensine programação pra uma criança sem saber programar'
 theme: "cupper-hugo-theme"
 
