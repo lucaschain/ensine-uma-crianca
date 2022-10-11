@@ -9,4 +9,4 @@ Esse é o site da ferramenta Scratch. Ela foi desenvolvida pelo MIT com o intuit
 
 Antes de apresentar a ideia pra criança, crie uma conta em https://scratch.mit.edu/ para que os projetos de vocês fiquem todos salvos.
 
-Faça a primeira e a segunda aula do [módulo 1](./material/) pra se familiarizar.
+Uma boa ideia é fazer a primeira e a segunda aula do [módulo 1](./material/) pra se familiarizar.
