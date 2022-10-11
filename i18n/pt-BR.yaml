@@ -1,0 +1,28 @@
+- id: skip_to_content
+  translation: ir para conteúdo
+- id: nav_main_navigation
+  translation: Navegação
+- id: nav_button_menu
+  translation: Menu
+- id: discuss_show_comments_button
+  translation: Mostrar comentários
+- id: discuss_comments_disabled
+  translation: Comentários desabilitados.
+- id: discuss_js_disabled
+  translation: Habilite javascript pra ver comentários.
+- id: dark_theme
+  translation: "tema escuro:"
+- id: table_of_contents
+  translation: Conteúdo
+- id: publish_date
+  translation: "Publicado em:"
+- id: last_updated
+  translation: "Última atualização:"
+- id: tags
+  translation: "Tags:"
+- id: aria_label_tags
+  translation: tags
+- id: search_placeholder
+  translation: Buscar por título...
+- id: search_aria_label
+  translation: Buscar por título

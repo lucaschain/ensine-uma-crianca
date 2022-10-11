@@ -2,7 +2,7 @@
 
 Com a ferramenta *Scratch*, conexão com a internet, e uma criança que saiba ler, você tem tudo o que é preciso pra começar.
 
-O [Ensine uma Criança](https://www.ensineumacrianca.com.br) é um conjunto de materiais e dicas que servirão de apoio pra você acompanhar esses módulos junto com uma criança próxima
+O [Ensine uma Criança](https://www.ensineumacrianca.com.br) é um conjunto de materiais e dicas que servirão de apoio pra você acompanhar esses módulos junto com uma criança próxima.
 
 ## Primeiros Passos
 
