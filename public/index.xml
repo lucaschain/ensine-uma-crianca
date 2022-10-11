@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aprenda programação junto com uma criança</title>
+    <link>http://www.ensineumacrianca.com.br/</link>
+    <description>Recent content on Aprenda programação junto com uma criança</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language><atom:link href="http://www.ensineumacrianca.com.br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://www.ensineumacrianca.com.br/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ensineumacrianca.com.br/</guid>
+      <description>Ensine uma criança Mesmo sem saber programar, você pode contribuir com o futuro de uma criança ensinando lógica de programação de uma forma lúdica.
+Com a ferramenta Scratch, conexão com a internet, e uma criança que saiba ler, você tem tudo o que é preciso pra começar.
+Scratch foi desenvolvido pelo MIT com o intuito de ensinar programação pra crianças de forma simples e divertida. Você pode criar projetos de jogos ou apps clicando e arrastando blocos.</description>
+    </item>
+    
+  </channel>
+</rss>

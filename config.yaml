@@ -1,0 +1,62 @@
+baseURL: 'http://www.ensineumacrianca.com.br/'
+languageCode: 'pt-br'
+title: 'Ensine programação pra uma criança sem saber programar'
+theme: "cupper-hugo-theme"
+
+permalinks:
+  material: /material/:filename/
+
+params:
+  description: Contribua com o futuro de uma criança ensinando lógica de programação de uma forma lúdica.
+  homeMetaContent: Contribua com o futuro de uma criança ensinando lógica de programação de uma forma lúdica.
+  footer: Feito com [Hugo](https://gohugo.io/). Tema por [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat: 2, Jan, 2006
+  katex: true
+  search: true
+  hideHeaderLinks: false
+  showThemeSwitcher: true
+  defaultDarkTheme: false
+  moveFooterToHeader: false
+  # navTitleText: Cupper Theme
+  logoAlt: Logo do projeto Ensine uma Criança
+
+menu:
+  nav:
+    - name: Principal
+      url: /
+      weight: 1
+    - name: Roteiro de Projetos
+      url: /material/
+      weight: 2
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
