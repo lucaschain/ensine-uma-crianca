@@ -7,11 +7,11 @@ Antes de começar, lembre-se de [criar uma conta](https://scratch.mit.edu/join) 
 
 Depois de criar sua conta, faça login e familiarize-se com Scratch. Uma boa forma de fazer isso é criar um projeto e explorar a ferramenta por 10 minutos.
 
-> :bulb: Se o site estiver em inglês, você pode mudar de idioma clicando no ícone de um globo, no canto superior esquerdo da tela
+> 💡 Se o site estiver em inglês, você pode mudar de idioma clicando no ícone de um globo, no canto superior esquerdo da tela
 
 Depois de entrar, clique no botão **Criar** no canto superior esquerdo pra abrir o editor. Essa é a tela onde tuda a magia acontece.
 
-> :bulb: Se você aprende melhor com vídeos, ao abrir o **editor**, clique em **Tutoriais** pra abrir uma galeria de guias pra você começar. O primeiro vídeo é tudo o que você vai precisar pra começar.
+> 💡 Se você aprende melhor com vídeos, ao abrir o **editor**, clique em **Tutoriais** pra abrir uma galeria de guias pra você começar. O primeiro vídeo é tudo o que você vai precisar pra começar.
 
 Dicas de coisas pra fazer enquanto explora o Scratch:
 
