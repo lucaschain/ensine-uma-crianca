@@ -1,7 +1,8 @@
 ---
 title: "1-1 Banda De Rock"
-date: 2022-10-11T15:14:30-03:00
 draft: false
 ---
 
-Módulo 1
+**Módulo:** 1
+
+**Atividade:** 1
