@@ -8,4 +8,4 @@ O cronograma dos módulos e as atividades são trabalhos dessa ONG e deveriam se
 
 O conteúdo desse site aqui vai servir pra dar um pouco mais de suporte pra cada atividade desse material que já existe, adicionando algumas dicas e analogias pra melhorar o aprendizado.
 
-Pra começar, leia a [introdução](./material/introducao.md).
+Pra começar, leia a [introdução](./material/introducao).
