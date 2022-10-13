@@ -1,5 +1,6 @@
 ---
 title: "0-0 Introdução"
+date: 2022-10-13T13:30:00-03:00
 draft: false
 ---
 
@@ -17,3 +18,5 @@ Dicas de coisas pra fazer enquanto explora o Scratch:
 
 - Arrastar um bloco "Mova" para a área de código, depois clicar nele com o botão esquerdo pra ver o que acontece
 - Procurar um bloco que toca um som, encaixar no bloco que você colocou anteriormente e clicar novamente pra ver o que acontece
+
+Por último, faça a [primeira atividade](/material/banda-de-rock) antes de fazer com a criança pra se preparar pra possíveis dúvidas.
