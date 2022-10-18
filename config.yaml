@@ -27,9 +27,12 @@ menu:
     - name: Principal
       url: /
       weight: 1
+    - name: Primeiros passos
+      url: /material/introducao/
+      weight: 2
     - name: Roteiro de Atividades
       url: /material/
-      weight: 2
+      weight: 3
 
 markup:
   defaultMarkdownHandler: goldmark
