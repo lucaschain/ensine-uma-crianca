@@ -15,13 +15,13 @@ Siga os passos do material e acompanhe cada etapa da atividade nos tópicos abai
 {{< expandable label="Introdução" level="2" >}}
 A introdução da atividade apresenta o projeto e alguns conceitos importantes do Scratch:
 
-- *ator*: todos os personagens e objetos do jogo, como atores e atrizes em uma peça de teatro;
-- *palco*: o espaço virtual do jogo, onde ficam ficam *atores*;
+- **ator**: todos os personagens e objetos do jogo, como atores e atrizes em uma peça de teatro;
+- **palco**: o espaço virtual do jogo, onde ficam ficam **atores**;
 
-Tanto *atores* quanto o *palco* são representados visualmente na tela do jogo, por *fantasias* e *cenários*, respectivamente.
+Tanto **atores** quanto o **palco** são representados visualmente na tela do jogo, por **fantasias** e **cenários**, respectivamente.
 
-- *fantasia*: é a "roupa" do *ator*. Um ator pode ter múltiplas fantasias, assim como personagens trocando de figurino numa peça de teatro;
-- *cenário*: é o visual de um *palco*. Assim como em uma peça de teatro, o cenário de um palco pode mudar.
+- **fantasia**: é a "roupa" do **ator**. Um ator pode ter múltiplas fantasias, assim como personagens trocando de figurino numa peça de teatro;
+- **cenário**: é o visual de um **palco**. Assim como em uma peça de teatro, o cenário de um palco pode mudar.
 
 > 💡 Clique na bandeira verde dentro do bloco "Experimente" pra ver como o jogo vai ficar ao final dessa atividade
 {{< /expandable >}}
@@ -37,37 +37,37 @@ Depois de seguir os passos desse capítulo, salve o projeto clicando em "Salvar 
 {{< /expandable >}}
 
 {{< expandable label="Pico diz olá" level="2" >}}
-Nessa seção, você vai ver que além de *fantasias*, um *ator* pode ter *código*, que vai dizer como o ator se comporta.
+Nessa seção, você vai ver que além de **fantasias**, um **ator** pode ter **código**, que vai dizer como o ator se comporta.
 
 Pontos importantes:
 
-- Um código é feito através de *blocos*;
+- Um código é feito através de **blocos**;
 - Você pode executar o comando de um bloco clicando nele;
 - Blocos são conectados com outros blocos, e são executados de cima pra baixo;
-- Existem diferentes tipos de blocos. Nessa etapa, vimos um bloco do tipo *Aparência* e um do tipo *Evento*;
-- Todos os blocos de código devem começar a partir de um bloco do tipo *Evento*, por exemplo *"Quando este ator for clicado"
+- Existem diferentes tipos de blocos. Nessa etapa, vimos um bloco do tipo **Aparência** e um do tipo **Evento**;
+- Todos os blocos de código devem começar a partir de um bloco do tipo **Evento**, por exemplo *"Quando este ator for clicado"
 {{< /expandable >}}
 
 {{< expandable label="Pico toca um som" level="2" >}}
-Além de *código* e *fantasia*, a última parte importante de um ator é o *som*. Atores podem emitir sons, falar, ou até mesmo tocar música.
+Além de **código** e **fantasia**, a última parte importante de um ator é o **som**. Atores podem emitir sons, falar, ou até mesmo tocar música.
 
 Pontos importantes:
 
-- Blocos de *Som* são parecidos com blocos de *Aparência*, a única diferença é que eles lidam com áudio ao invés de imagem;
-- Assim como *fantasias*, você pode adicionar múltiplos *sons* a atores.
+- Blocos de **Som** são parecidos com blocos de **Aparência**, a única diferença é que eles lidam com áudio ao invés de imagem;
+- Assim como **fantasias**, você pode adicionar múltiplos **sons** a atores.
 {{< /expandable >}}
 
 {{< expandable label="Nano troca de fantasias" level="2" >}}
-Essa seção explica como trocar a fantasia de um *Ator* e como alterar fantasias.
+Essa seção explica como trocar a fantasia de um **Ator** e como alterar fantasias.
 
 Pontos importantes:
 
-- Blocos de *Aparência* também podem servir pra trocar a *fantasia* de atores;
-- Você pode usar a aba *Fantasias* de um *ator* pra editar ou criar novas fantasias;
+- Blocos de **Aparência** também podem servir pra trocar a **fantasia** de atores;
+- Você pode usar a aba **Fantasias** de um **ator** pra editar ou criar novas fantasias;
 {{< /expandable >}}
 
 {{< expandable label="Giga muda de cor" level="2" >}}
-Existem formas de adicionar efeitos nas *fantasias* dos *atores* com alguns blocos do tipo *Aparência*.
+Existem formas de adicionar efeitos nas **fantasias** dos **atores** com alguns blocos do tipo **Aparência**.
 
 > 💡 Experimente com diferentes efeitos e valores
 {{< /expandable >}}
