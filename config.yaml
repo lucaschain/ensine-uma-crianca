@@ -27,7 +27,7 @@ menu:
     - name: Principal
       url: /
       weight: 1
-    - name: Roteiro de Projetos
+    - name: Roteiro de Atividades
       url: /material/
       weight: 2
 
