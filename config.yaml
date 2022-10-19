@@ -25,7 +25,7 @@ params:
 
 menu:
   nav:
-    - name: Principal
+    - name: "Como?"
       url: /
       weight: 1
     - name: Primeiros passos

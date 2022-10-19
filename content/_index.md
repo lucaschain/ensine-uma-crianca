@@ -1,4 +1,4 @@
-# Ensine uma criança
+# Como?
 
 Com a ferramenta *Scratch*, conexão com a internet, e uma criança que saiba ler, você tem tudo o que é preciso pra começar.
 
