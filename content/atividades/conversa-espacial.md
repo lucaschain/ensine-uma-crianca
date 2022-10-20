@@ -10,7 +10,7 @@ draft: false
 
 Pra começar, abra o link do material clicando no nome da atividade aqui em cima e comece pela introdução.
 
-Siga os passos do material e acompanhe cada etapa da atividade nos tópicos abaixo, se aprofundam, contém dicas dicas ou considerações.
+Siga os passos do material e acompanhe cada etapa da atividade nos tópicos abaixo que se aprofundam, contém dicas dicas ou considerações.
 
 {{< expandable label="Introdução" level="2" >}}
 A introdução da atividade apresenta o projeto e alguns conceitos importantes do Scratch:
