@@ -22,6 +22,8 @@ params:
   moveFooterToHeader: false
   # navTitleText: Cupper Theme
   logoAlt: Logo do projeto Ensine uma Criança
+  customCss:
+    - css/override.css
 
 menu:
   nav:
