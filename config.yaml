@@ -5,7 +5,7 @@ title: 'Ensine programação pra uma criança sem saber programar'
 theme: "cupper-hugo-theme"
 
 permalinks:
-  material: /material/:filename/
+  atividades: /atividades/:filename/
   conceitos: /conceitos/:filename/
 
 params:
@@ -29,10 +29,10 @@ menu:
       url: /
       weight: 1
     - name: Primeiros passos
-      url: /material/introducao/
+      url: /introducao
       weight: 2
     - name: Roteiro de Atividades
-      url: /material/
+      url: /atividades/
       weight: 3
     - name: Conceitos do Scratch
       url: /conceitos/
