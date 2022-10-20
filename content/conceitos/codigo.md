@@ -8,8 +8,8 @@ draft: false
 
 Ele é composto por **Blocos** de diferentes tipos, listados no painel esquerdo da aba **Código**.
 
-Blocos podem ser encadeados formando trechos de código, que são executados em sequência, de cima para baixo.
+Blocos podem ser encadeados formando **trechos de código**, que são executados em sequência, de cima para baixo.
 
-Todos os trechos de código vão começar a partir de um bloco do tipo **Evento** que começa com **"Quando..."**. O nome desses blocos vai dizer quando aquele trecho de código será executado.
+> 💡 Todos os trechos de código vão começar a partir de um bloco do tipo **Evento** que começa com **"Quando..."**.
 
 Você pode testar o funcionamento de blocos ou trechos de código clicando sobre eles.
