@@ -20,3 +20,20 @@ Pra facilitar o entendimento, podemos comparar esse conceito com outros jogos qu
 - [**Batalha Naval**](https://pt.wikipedia.org/wiki/Batalha_naval_(jogo)): letras são o `y` e os números são o `x`;
 
 > 💡 Pensem em alguns `x` e `y` e adivinhe onde eles ficariam no quadro acima
+
+Alguns blocos de código que controlam o posicionamento:
+
+- **Mova ... passos**: anda passos na direção que o ator está olhando
+- **Vá para x: ... y: ...**: teletransporta o ator pra uma posição exata
+- **Vá para ...**: teletransporta o ator pra outro ator, mouse ou aleatorio
+- **Mude x/y para ...**: teletransporta o ator em apenas um eixo
+- **Adicione ... a x/y**: acrescenta ou diminui a posição de apenas um eixo
+
+### Camadas
+
+Atores podem ficar na frente ou atrás de uns aos outros, e esse comportamento pode ser controlado.
+
+Um ator pode ser trazido pra frente (mais perto da câmera), ou enviado pra trás com os blocos do tipo *Aparência*:
+
+- **Vá para a camada ...**: coloca um ator em frente a tudo
+- **Vá para ... ... camadas**: move camadas pra trás ou pra frente
