@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roteiro de Atividades on Ensine programação pra uma criança sem saber programar</title>
+    <link>https://www.ensineumacrianca.com.br/atividades/</link>
+    <description>Recent content in Roteiro de Atividades on Ensine programação pra uma criança sem saber programar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Thu, 13 Oct 2022 13:25:00 -0300</lastBuildDate><atom:link href="https://www.ensineumacrianca.com.br/atividades/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0-1 Conversa Espacial</title>
+      <link>https://www.ensineumacrianca.com.br/atividades/conversa-espacial/</link>
+      <pubDate>Thu, 13 Oct 2022 13:25:00 -0300</pubDate>
+      
+      <guid>https://www.ensineumacrianca.com.br/atividades/conversa-espacial/</guid>
+      <description>Módulo: 0 - Introdução Atividade: 1 - Conversa Espacial Pra começar, abra o link do material clicando no nome da atividade aqui em cima e comece pela introdução.
+Siga os passos do material e acompanhe cada etapa da atividade nos tópicos abaixo que se aprofundam, contém dicas dicas ou considerações.
+ Introdução     A introdução da atividade apresenta o projeto e alguns conceitos importantes do Scratch:
+ ator: todos os personagens e objetos do jogo, como atores e atrizes em uma peça de teatro; palco: o espaço virtual do jogo, onde ficam ficam atores;  Tanto atores quanto o palco são representados visualmente na tela do jogo, por fantasias e cenários, respectivamente.</description>
+    </item>
+    
+    <item>
+      <title>0-2 Pegue o Ônibus</title>
+      <link>https://www.ensineumacrianca.com.br/atividades/pegue-o-onibus/</link>
+      <pubDate>Thu, 13 Oct 2022 13:24:00 -0300</pubDate>
+      
+      <guid>https://www.ensineumacrianca.com.br/atividades/pegue-o-onibus/</guid>
+      <description>Módulo: 0 - Introdução Atividade: 1 - Pegue o Ônibus Pra começar, abra o link do material clicando no nome da atividade aqui em cima e comece pela introdução.
+Siga os passos do material e acompanhe cada etapa da atividade nos tópicos abaixo que se aprofundam, contém dicas dicas ou considerações.
+ Introdução     Veja como o projeto final pode ficar clicando na bandeira verde.
+Você vai ver que sim, é possível fazer animações com código!</description>
+    </item>
+    
+  </channel>
+</rss>

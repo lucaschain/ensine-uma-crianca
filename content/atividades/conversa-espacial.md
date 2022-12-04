@@ -45,7 +45,7 @@ Pontos importantes:
 - Você pode executar o comando de um bloco clicando nele;
 - Blocos são conectados com outros blocos, e são executados de cima pra baixo;
 - Existem diferentes tipos de blocos. Nessa etapa, vimos um bloco do tipo **Aparência** e um do tipo **Evento**;
-- Todos os blocos de código devem começar a partir de um bloco do tipo **Evento**, por exemplo *"Quando este ator for clicado"
+- Todos os blocos de código devem começar a partir de um bloco do tipo **Evento**, por exemplo `Quando este ator for clicado`
 {{< /expandable >}}
 
 {{< expandable label="Pico toca um som" level="2" >}}

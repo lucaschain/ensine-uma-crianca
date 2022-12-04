@@ -4,7 +4,7 @@ date: 2022-10-18T10:55:56-03:00
 draft: false
 ---
 
-**Atores** são todas as pessoas e objetos com algum tipo de comportamento dentro do jogo. Sem eles, nosso jogo seria apenas um palco vazio.
+*Atores* são todas as pessoas e objetos com algum tipo de comportamento dentro do jogo. Sem eles, nosso jogo seria apenas um palco vazio.
 
 Os atores são feito de três coisas:
 
@@ -12,7 +12,7 @@ Os atores são feito de três coisas:
 - [Fantasias](/conceitos/fantasias) (os visuais)
 - [Sons](/conceitos/sons) (as vozes, efeitos sonoros e músicas)
 
-Um ator pode ter múltiplas [**fantasias**](/conceitos/fantasias) e [**sons**](/conceitos/sons), e através do **código**, você pode manipulá-los da forma que quiser, por exemplo:
+Um ator pode ter múltiplas [*fantasias*](/conceitos/fantasias) e [*sons*](/conceitos/sons), e através do *código*, você pode manipulá-los da forma que quiser, por exemplo:
 
 - Trocar de uma fantasia pra outra;
 - Emitir um som;

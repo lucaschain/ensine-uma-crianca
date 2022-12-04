@@ -23,11 +23,11 @@ Pra facilitar o entendimento, podemos comparar esse conceito com outros jogos qu
 
 Alguns blocos de código que controlam o posicionamento:
 
-- **Mova ... passos**: anda passos na direção que o ator está olhando
-- **Vá para x: ... y: ...**: teletransporta o ator pra uma posição exata
-- **Vá para ...**: teletransporta o ator pra outro ator, mouse ou aleatorio
-- **Mude x/y para ...**: teletransporta o ator em apenas um eixo
-- **Adicione ... a x/y**: acrescenta ou diminui a posição de apenas um eixo
+- `mova ... passos`: anda passos na direção que o ator está olhando
+- `vá para x: ... y: ...`: teletransporta o ator pra uma posição exata
+- `vá para ...`: teletransporta o ator pra outro ator, mouse ou aleatorio
+- `mude x/y para ...`: teletransporta o ator em apenas um eixo
+- `adicione ... a x/y`: acrescenta ou diminui a posição de apenas um eixo
 
 ### Camadas
 
@@ -35,5 +35,5 @@ Atores podem ficar na frente ou atrás de uns aos outros, e esse comportamento p
 
 Um ator pode ser trazido pra frente (mais perto da câmera), ou enviado pra trás com os blocos do tipo *Aparência*:
 
-- **Vá para a camada ...**: coloca um ator em frente a tudo
-- **Vá para ... ... camadas**: move camadas pra trás ou pra frente
+- `vá para a camada ...`: coloca um ator em frente a tudo
+- `vá para ... ... camadas`: move camadas pra trás ou pra frente

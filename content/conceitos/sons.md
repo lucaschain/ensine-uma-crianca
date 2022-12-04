@@ -17,13 +17,13 @@ Os sons são úteis quando você quiser fazer coisas como:
 
 Esses são os blocos que controlam os sons:
 
-- **Toque o som ... até o fim**: Toca um som e aguarda até o fim antes de passar para o próximo bloco;
-- **Toque o som ...**: Toca um som, mas ao invés de aguardar até o fim, passa imediatamente para o próximo bloco;
-- **Pare todos os sons**: Para de tocar todos os sons que estão tocando imediatamente;
-- **Mude ... no efeito ...**: Adiciona ou diminui a intensidade de um efeito no som. Efeitos de sons são controlados assim como os efeitos de fantasias;
-- **Mude o efeito ... para ...**: Define a intensidade do efeito do som, de 0 até 200;
-- **Remova os efeitos sonoros**: Remove todos os efeitos sonoros do som;
-- **Mude o volume em**: Aumenta ou diminui o volume dos sons;
-- **mude o volume para ...%**: Ao invés de aumentar ou diminuir o volume, define para um valor de 0 até 100%.
+- `toque o som ... até o fim`: Toca um som e aguarda até o fim antes de passar para o próximo bloco;
+- `toque o som ...`: Toca um som, mas ao invés de aguardar até o fim, passa imediatamente para o próximo bloco;
+- `pare todos os sons`: Para de tocar todos os sons que estão tocando imediatamente;
+- `mude ... no efeito ...`: Adiciona ou diminui a intensidade de um efeito no som. Efeitos de sons são controlados assim como os efeitos de fantasias;
+- `mude o efeito ... para ...`: Define a intensidade do efeito do som, de 0 até 200;
+- `remova os efeitos sonoros`: Remove todos os efeitos sonoros do som;
+- `mude o volume em`: Aumenta ou diminui o volume dos sons;
+- `mude o volume para ...%`: Ao invés de aumentar ou diminuir o volume, define para um valor de 0 até 100%.
 
-> 💡 O volume individual de um som pode ser alterado na aba *Sons*. Se achar que os sons de seu jogo estão altos de uma forma geral, utilize o bloco **"Mude o volume para ...%"** no início do jogo para um valor mais agradável.
+> 💡 O volume individual de um som pode ser alterado na aba *sons*. Se achar que os sons de seu jogo estão altos de uma forma geral, utilize o bloco `mude o volume para ...%` no início do jogo para um valor mais agradável.
