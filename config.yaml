@@ -39,6 +39,9 @@ menu:
     - name: Conceitos do Scratch
       url: /conceitos/
       weight: 4
+    - name: Turma 2024 - Aulas Gratuitas
+      url: /turma-code-club-2024/
+      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark
