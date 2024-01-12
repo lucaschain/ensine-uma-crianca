@@ -6,7 +6,7 @@ draft: false
 
 ## Um Curso Online de Tecnologia para Crianças
 
-Em parceria com [Code Club Brasil](https://www.codeclubbrasil.org.br/), um projeto social voltado ao aprendizado infantil em tecnologia, abriremos uma nova turma para aulas de [Scratch](https://scratch.mit.edu/) online.
+Através do [Code Club Brasil](https://www.codeclubbrasil.org.br/), um projeto social voltado ao aprendizado infantil em tecnologia, abriremos uma nova turma para aulas de [Scratch](https://scratch.mit.edu/) online.
 
 Recomendado pra crianças de 7 a 12 anos, porém, não há restrição de idade para participar.
 
