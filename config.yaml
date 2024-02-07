@@ -31,7 +31,7 @@ menu:
       url: /
       weight: 1
     - name: Primeiros passos
-      url: /introducao
+      url: /introducao/
       weight: 2
     - name: Roteiro de Atividades
       url: /atividades/

@@ -2,7 +2,7 @@
 
 Com a ferramenta *Scratch*, conexão com a internet, e uma criança que saiba ler, você tem tudo o que é preciso pra começar.
 
-O [Ensine uma Criança](https://www.ensineumacrianca.com.br) é um conjunto de materiais de apoio e dicas que servirão de complemento pra você acompanhar atividades lúdicas propostas pelo [Code Club](https://projects.raspberrypi.org/en/codeclub), que é uma ONG criada pela [Raspberry Pi Foundation](https://www.raspberrypi.org/).
+O [Ensine uma Criança](https://www.ensineumacrianca.com.br) é um conjunto de materiais de apoio e dicas que servirão de complemento pra você acompanhar atividades lúdicas propostas pelo [Code Club](https://projects.raspberrypi.org/en/codeclub), que é um projeto social criado pela [Raspberry Pi Foundation](https://www.raspberrypi.org/).
 
 O cronograma dos módulos e as atividades são trabalhos dessas instituições e deveriam ser suficientes pra uma criança conseguir ler e reproduzir.
 

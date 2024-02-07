@@ -29,6 +29,8 @@ As aulas começam no dia *4 de março*, que será nossa aula introdutória, expl
 
 A turma será aberta inicialmente para 12 alunos, e a seleção será por ordem de cadastro. Em caso de desistência, as próximas pessoas da fila serão chamadas.
 
-Pra participar, preencha o formulário abaixo:
+Pra participar, acesse o link abaixo:
 
-- [Formulário de Interesse](https://forms.gle/mcALikKPFViMR8297)
+- [Inscrever-se](https://forms.gle/mcALikKPFViMR8297)
+
+Caso tenha dúvidas, encaminhe-as para o e-mail [sou@lucaschain.com.br](mailto:sou@lucaschain.com.br)
