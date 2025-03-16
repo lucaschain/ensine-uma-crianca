@@ -2,6 +2,7 @@
 title: "0-2 Pegue o Ônibus"
 date: 2022-10-13T13:24:00-03:00
 draft: false
+summary: "Aprendendo movimentação no Scratch"
 ---
 
 **Módulo:** [0 - Introdução](https://projects.raspberrypi.org/pt-BR/pathways/scratch-intro)
@@ -12,13 +13,13 @@ Pra começar, abra o link do material clicando no nome da atividade aqui em cima
 
 Siga os passos do material e acompanhe cada etapa da atividade nos tópicos abaixo que se aprofundam, contém dicas dicas ou considerações.
 
-{{< expandable label="Introdução" level="2" >}}
+{{< details summary="Introdução" level="2" >}}
 Veja como o projeto final pode ficar clicando na bandeira verde.
 
 Você vai ver que sim, é possível fazer animações com código!
-{{< /expandable >}}
+{{< /details >}}
 
-{{< expandable label="Crie o cenário do teu ônibus" level="2" >}}
+{{< details summary="Crie o cenário do teu ônibus" level="2" >}}
 Você pode fazer um *Remix* do projeto inicial ou criar um novo.
 
 Após adicionar o cenário e o ônibus, você vai conhecer o mais importante bloco do Scratch.
@@ -39,9 +40,9 @@ Esse bloco serve pra colocarmos o *ator* (ônibus) no seu lugar sempre que o jog
 
 Siga esse links pra entender mais:
 - [posicionamento e camadas](/conceitos/posicionamento)
-{{< /expandable >}}
+{{< /details >}}
 
-{{< expandable label="O Gato Scratch alcança o ônibus" level="2" >}}
+{{< details summary="O Gato Scratch alcança o ônibus" level="2" >}}
 
 ### Ponha o Gato Scratch em sua posição inicial
 
@@ -66,17 +67,17 @@ Siga esse links pra entender mais:
 - [repetições](/conceitos/repeticoes)
 - [animações](/conceitos/animacoes)
 - [fantasias](/conceitos/fantasias)
-{{< /expandable >}}
+{{< /details >}}
 
-{{< expandable label="O hipopótamo alcança o ônibus voando" level="2" >}}
+{{< details summary="O hipopótamo alcança o ônibus voando" level="2" >}}
 Nessa seção da atividade, vamos adicionar um novo [*ator*](/conceitos/atores), o hipopótamo.
 
 Os blocos referentes ao posicionamento, movimento, e troca de fantasia, serão como fizemos no ator anterior, com uma pequena diferença:
 
 A direção do hipopótamo vai se comportar de forma diferente e vai fazer com que o ator "olhe" para algum alvo. Nesse caso, ele vai "olhar" pro ônibus usando o bloco `aponte para ...`.
-{{< /expandable >}}
+{{< /details >}}
 
-{{< expandable label="O ônibus parte" level="2" >}}
+{{< details summary="O ônibus parte" level="2" >}}
 Aqui somos apresentados a um novo bloco de [*evento*](/conceitos/eventos): `quando [cronômetro] > ...`.
 
 Nossa intenção aqui é que algo aconteça depois de `4` segundos que o jogo começar. Nesse caso, o ônibus começar a se mover.
@@ -98,9 +99,9 @@ Siga esse links pra entender mais:
 - [animações](/conceitos/animacoes)
 - [posicionamento (camadas)](/conceitos/posicionamento)
 - [fantasias](/conceitos/fantasias)
-{{< /expandable >}}
+{{< /details >}}
 
-{{< expandable label="Perdendo o ônibus" level="2" >}}
+{{< details summary="Perdendo o ônibus" level="2" >}}
 Aqui, vamos simular uma situação onde o gato não consegue alcançar o ônibus.
 
 Uma das formas de fazer isso é usarmos um bloco de controle chamado `espere ... seg`.
@@ -108,18 +109,18 @@ Uma das formas de fazer isso é usarmos um bloco de controle chamado `espere ...
 Esse bloco faz apenas uma coisa: aguarda um período de tempo até que o próximo bloco seja executado.
 
 Essa seção te instrui a adicionar blocos de `espere ... seg` durante a animação do gato para que ele fique mais lento e não consiga alcançar o ônibus.
-{{< /expandable >}}
+{{< /details >}}
 
-{{< expandable label="Mudando o destino" level="2" >}}
+{{< details summary="Mudando o destino" level="2" >}}
 Agora deixe suas habilidades artisticas fluírem: desenhe na [*fantasia*](/conceitos/fantasias) do ônibus do jeito que preferir.
 
 > 💡 Esse é o seu universo, então não prenda sua imaginação na hora de mudar a fantasia
-{{< /expandable >}}
+{{< /details >}}
 
-{{< expandable label="Reflexão" level="2" >}}
+{{< details summary="Reflexão" level="2" >}}
 Aproveite essa seção pra testar seus conhecimentos. Você pode tentar quantas vezes quiser, então não tenha medo de errar!
-{{< /expandable >}}
+{{< /details >}}
 
-{{< expandable label="Melhore o seu projeto" level="2" >}}
+{{< details summary="Melhore o seu projeto" level="2" >}}
 Explore ainda mais a ferramenta e tente adicionar novos atores com diferentes tipos de movimento!
-{{< /expandable >}}
+{{< /details >}}

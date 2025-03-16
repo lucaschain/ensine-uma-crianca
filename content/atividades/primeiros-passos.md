@@ -2,6 +2,7 @@
 title: "Primeiros Passos"
 date: 2022-10-13T13:30:00-03:00
 draft: false
+summary: "Criando uma conta e explorando o Scratch"
 ---
 
 Antes de começar, lembre-se de [criar uma conta](https://scratch.mit.edu/join) na plataforma Scratch.

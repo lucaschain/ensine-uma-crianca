@@ -1,21 +1,12 @@
 <!DOCTYPE html>
 <html>
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head>
     <meta charset="utf-8">
-    <title>
-      Ensine programação pra uma criança sem saber programar
-    </title>
-    
-  
-    
-    
-      
-        <link rel="stylesheet" href="/css/main.css">
-      
-    
-  
-
-
+    <title>{{ block "title" . }}
+      {{ .Site.Title }}
+    {{ end }}</title>
+    {{ partialCached "css.html" . }}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
     <div class="hero bg-base-200">
@@ -28,11 +19,7 @@
         </div>
       </div>
     </div>
-    
-  <h1>Tags</h1>
-  
-  
-
-     
+    {{ block "main" . }} {{ end }}
+    {{ block "footer" . }} {{ end }}
   </body>
 </html>

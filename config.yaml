@@ -2,28 +2,10 @@ baseURL: 'https://www.ensineumacrianca.com.br/'
 languageCode: 'pt-BR'
 defaultContentLanguage: 'pt'
 title: 'Ensine programação pra uma criança sem saber programar'
-theme: "cupper-hugo-theme"
 
 permalinks:
   atividades: /atividades/:filename/
   conceitos: /conceitos/:filename/
-
-params:
-  description: Contribua com o futuro de uma criança ensinando lógica de programação de uma forma lúdica.
-  homeMetaContent: Contribua com o futuro de uma criança ensinando lógica de programação de uma forma lúdica.
-  footer: Ensine uma Criança é um projeto independente e sem ligações com a Raspberry Pi Foundation.
-  # For more date formats see https://gohugo.io/functions/format/
-  dateFormat: 2, Jan, 2006
-  katex: true
-  search: true
-  hideHeaderLinks: false
-  showThemeSwitcher: false
-  defaultDarkTheme: false
-  moveFooterToHeader: false
-  # navTitleText: Cupper Theme
-  logoAlt: Logo do projeto Ensine uma Criança
-  customCss:
-    - css/override.css
 
 menu:
   nav:
@@ -39,7 +21,7 @@ menu:
     - name: Conceitos do Scratch
       url: /conceitos/
       weight: 4
-    - name: Turma 2024 - Aulas Gratuitas
+    - name: Aulas Gratuitas (matrículas fechadas)
       url: /turma-code-club-2024/
       weight: 5
 
@@ -73,3 +55,19 @@ markup:
   tableOfContents:
     endLevel: 6
     startLevel: 2
+
+build:
+  buildStats:
+    enable: true
+  cachebusters:
+  - source: assets/notwatching/hugo_stats\.json
+    target: css
+  - source: (postcss|tailwind)\.config\.js
+    target: css
+module:
+  mounts:
+  - source: assets
+    target: assets
+  - disableWatch: true
+    source: hugo_stats.json
+    target: assets/notwatching/hugo_stats.json

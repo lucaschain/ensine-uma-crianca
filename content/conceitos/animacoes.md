@@ -22,7 +22,7 @@ Quando estiver animando, você pode controlar os valores dos blocos de repetiç�
 
 <img alt="Blocos de animação com os valores a serem alterados marcados" src="/conceitos/imagens/animacao.png" width="100%"/>
 
-O número no bloco `mova ... passos` vai dizer a velocidade da animação. Se multiplicarmos os dois números, temos a distância que o ator vai se deslocar.
+O número no bloco `mova ... passos` vai dizer a velocidade da animação. Se multiplicarmos os dois números, temos a distância total que o ator vai se deslocar.
 
 
 ## Deslizando

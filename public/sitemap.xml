@@ -2,54 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.ensineumacrianca.com.br/</loc>
-    <lastmod>2022-10-18T10:55:56-03:00</lastmod>
-    <priority>0</priority>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-01-08T08:30:00-03:00</lastmod>
   </url><url>
-    <loc>https://www.ensineumacrianca.com.br/conceitos/atores/</loc>
+    <loc>http://localhost:1313/turma-code-club-2024/</loc>
+    <lastmod>2024-01-08T08:30:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/conceitos/atores/</loc>
     <lastmod>2022-10-18T10:55:56-03:00</lastmod>
   </url><url>
-    <loc>https://www.ensineumacrianca.com.br/conceitos/</loc>
+    <loc>http://localhost:1313/conceitos/</loc>
     <lastmod>2022-10-18T10:55:56-03:00</lastmod>
   </url><url>
-    <loc>https://www.ensineumacrianca.com.br/conceitos/codigo/</loc>
+    <loc>http://localhost:1313/conceitos/codigo/</loc>
     <lastmod>2022-10-17T16:58:31-03:00</lastmod>
   </url><url>
-    <loc>https://www.ensineumacrianca.com.br/conceitos/fantasias/</loc>
+    <loc>http://localhost:1313/conceitos/fantasias/</loc>
     <lastmod>2022-10-17T16:56:31-03:00</lastmod>
   </url><url>
-    <loc>https://www.ensineumacrianca.com.br/conceitos/sons/</loc>
+    <loc>http://localhost:1313/conceitos/sons/</loc>
     <lastmod>2022-10-16T17:46:58-03:00</lastmod>
   </url><url>
-    <loc>https://www.ensineumacrianca.com.br/conceitos/palco/</loc>
+    <loc>http://localhost:1313/conceitos/palco/</loc>
     <lastmod>2022-10-15T18:34:19-03:00</lastmod>
   </url><url>
-    <loc>https://www.ensineumacrianca.com.br/conceitos/cenarios/</loc>
+    <loc>http://localhost:1313/conceitos/cenarios/</loc>
     <lastmod>2022-10-14T18:34:19-03:00</lastmod>
   </url><url>
-    <loc>https://www.ensineumacrianca.com.br/conceitos/posicionamento/</loc>
+    <loc>http://localhost:1313/conceitos/posicionamento/</loc>
     <lastmod>2022-10-14T18:34:18-03:00</lastmod>
   </url><url>
-    <loc>https://www.ensineumacrianca.com.br/conceitos/direcao/</loc>
+    <loc>http://localhost:1313/conceitos/direcao/</loc>
     <lastmod>2022-10-14T18:33:18-03:00</lastmod>
   </url><url>
-    <loc>https://www.ensineumacrianca.com.br/conceitos/repeticoes/</loc>
+    <loc>http://localhost:1313/conceitos/repeticoes/</loc>
     <lastmod>2022-10-14T18:32:18-03:00</lastmod>
   </url><url>
-    <loc>https://www.ensineumacrianca.com.br/introducao/</loc>
+    <loc>http://localhost:1313/conceitos/animacoes/</loc>
+    <lastmod>2022-10-14T18:30:18-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/conceitos/eventos/</loc>
+    <lastmod>2022-10-14T18:29:18-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/atividades/primeiros-passos/</loc>
     <lastmod>2022-10-13T13:30:00-03:00</lastmod>
   </url><url>
-    <loc>https://www.ensineumacrianca.com.br/atividades/conversa-espacial/</loc>
+    <loc>http://localhost:1313/atividades/</loc>
+    <lastmod>2022-10-13T13:30:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/atividades/conversa-espacial/</loc>
     <lastmod>2022-10-13T13:25:00-03:00</lastmod>
   </url><url>
-    <loc>https://www.ensineumacrianca.com.br/atividades/</loc>
-    <lastmod>2022-10-13T13:25:00-03:00</lastmod>
-  </url><url>
-    <loc>https://www.ensineumacrianca.com.br/atividades/pegue-o-onibus/</loc>
+    <loc>http://localhost:1313/atividades/pegue-o-onibus/</loc>
     <lastmod>2022-10-13T13:24:00-03:00</lastmod>
   </url><url>
-    <loc>https://www.ensineumacrianca.com.br/categories/</loc>
+    <loc>http://localhost:1313/atividades/banda-de-rock/</loc>
+    <lastmod>2022-10-13T13:24:00-03:00</lastmod>
   </url><url>
-    <loc>https://www.ensineumacrianca.com.br/tags/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
