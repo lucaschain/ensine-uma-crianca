@@ -1,8 +1,10 @@
 ---
-title: "1-1 Banda de Rock"
+title: "Banda de Rock"
 date: 2022-10-13T13:24:00-03:00
-draft: false
+draft: true
 summary: "Usando a funcionalidade de sons"
+params:
+  type: suporte
 ---
 
 **Módulo:** [1](https://projects.raspberrypi.org/pt-BR/pathways/scratch-module-1)

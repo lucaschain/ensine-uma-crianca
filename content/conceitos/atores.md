@@ -12,7 +12,7 @@ Os atores são feito de três coisas:
 - [Fantasias](/conceitos/fantasias) (os visuais)
 - [Sons](/conceitos/sons) (as vozes, efeitos sonoros e músicas)
 
-Um ator pode ter múltiplas [*fantasias*](/conceitos/fantasias) e [*sons*](/conceitos/sons), e através do *código*, você pode manipulá-los da forma que quiser, por exemplo:
+Um ator pode ter múltiplas [fantasias](/conceitos/fantasias) e [sons](/conceitos/sons), e através do [código](/conceitos/codigo), você pode manipulá-los da forma que quiser, por exemplo:
 
 - Trocar de uma fantasia pra outra;
 - Emitir um som;
