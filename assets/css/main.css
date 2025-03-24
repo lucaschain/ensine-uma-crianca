@@ -1,9 +1,9 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
 @plugin "daisyui" {
   themes: light --default;
 }
-
 
 @plugin "daisyui/theme" {
   name: "emerald";
@@ -40,6 +40,31 @@
   --noise: 0;
 }
 
-
-
 @source "hugo_stats.json";
+
+details {
+  cursor: pointer;
+}
+
+.prose p,
+.prose a,
+.prose details,
+.prose li {
+  font-size: 1.2rem;
+}
+
+.prose h3 {
+  font-size: 1.4rem;
+}
+
+.prose h2 {
+  font-size: 1.8rem;
+}
+
+.prose h1 {
+  font-size: 2rem;
+}
+
+img {
+  margin: 0 auto;
+}
