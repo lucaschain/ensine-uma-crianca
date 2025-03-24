@@ -1,6 +1,8 @@
 {
   "devDependencies": {
     "@tailwindcss/cli": "^4.0.14",
+    "@tailwindcss/typography": "^0.5.16",
+    "babel-cli": "^6.26.0",
     "daisyui": "^5.0.4",
     "tailwindcss": "^4.0.14"
   }
