@@ -6,20 +6,39 @@
       {{ .Site.Title }}
     {{ end }}</title>
     {{ partialCached "css.html" . }}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{ partialCached "js.html" . }}
+    {{ partialCached "pwa.html" . }}
   </head>
-  <body>
-    <div class="hero bg-base-200">
-      <div class="hero-content text-center">
-        <div class="max-w-md">
-          <h1 class="text-5xl font-bold">Ensine uma Criança</h1>
-          <p class="py-6">
-            Um conjunto de materiais de apoio e dicas que te ajudarão acompanhar atividades lúdicas propostas pelo <a target="_blank" href="https://projects.raspberrypi.org/en/codeclub">Code Club</a>, um projeto social criado pela <a target="_blank" href="https://www.raspberrypi.org/">Raspberry Pi Foundation</a>.
-          </p>
+  <body class="pb-36">
+    <div class="drawer">
+      <input id="concept-drawer" type="checkbox" class="drawer-toggle" />
+      <div class="drawer-content">
+        <div class="hero bg-base-200">
+          <div class="hero-content text-center">
+            <div class="max-w-md">
+              <h1 class="text-5xl font-bold">{{ .Site.Title }}</h1>
+              <p class="py-6">
+                {{ .Site.Params.summary | safeHTML }}
+              </p>
+            </div>
+          </div>
+        </div>
+        {{ block "main" . }} {{ end }}
+        {{ block "footer" . }} {{ end }}
+        <div class="hidden" id="concepts">
+          {{ range where site.RegularPages "Section" "conceitos" }}
+          <div data-concept="{{ lower .File.BaseFileName }}">
+            {{ .Content }}
+          </div>
+          {{ end }}
         </div>
       </div>
+      <div class="drawer-side">
+        <label class="z-1 cursor-pointer ml-2 mt-2" for="concept-drawer" aria-label="close sidebar">fechar</label>
+        <label for="concept-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
+        <div class="navbar bg-base-100 shadow-sm p-4 prose rounded-br-2xl pb-36" id="concept-drawer-contents"></div>
+      </div>
     </div>
-    {{ block "main" . }} {{ end }}
-    {{ block "footer" . }} {{ end }}
+    {{ partial "dock.html" . }}
   </body>
 </html>

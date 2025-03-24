@@ -3,9 +3,13 @@
   {{ range where site.RegularPages "Section" "atividades" }}
     <div class="card bg-base-100 w-96 shadow-sm">
       <figure>
+        {{ $image := .Resources.Get "cover.png" }}
+        {{ $summary := .Summary }}
+        {{ with $image }}
         <img
-          src="/images/covers/atividades/{{ .File.BaseFileName }}.png"
-          alt="{{ .Summary }}" />
+          src="{{ .RelPermalink }}"
+          alt="{{ $summary }}" />
+        {{ end }}
       </figure>
       <div class="card-body">
         <h2 class="card-title">{{ .LinkTitle }}</h2>
