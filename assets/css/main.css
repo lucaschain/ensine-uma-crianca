@@ -5,45 +5,61 @@
   themes: light --default;
 }
 
+
 @plugin "daisyui/theme" {
-  name: "emerald";
+  name: "ensine";
   default: true;
   prefersdark: false;
   color-scheme: "light";
-  --color-base-100: oklch(100% 0 0);
-  --color-base-200: oklch(93% 0 0);
-  --color-base-300: oklch(86% 0 0);
-  --color-base-content: oklch(35.519% 0.032 262.988);
-  --color-primary: oklch(76.662% 0.135 153.45);
-  --color-primary-content: oklch(33.387% 0.04 162.24);
-  --color-secondary: oklch(61.302% 0.202 261.294);
-  --color-secondary-content: oklch(100% 0 0);
-  --color-accent: oklch(72.772% 0.149 33.2);
-  --color-accent-content: oklch(0% 0 0);
-  --color-neutral: oklch(35.519% 0.032 262.988);
-  --color-neutral-content: oklch(98.462% 0.001 247.838);
-  --color-info: oklch(72.06% 0.191 231.6);
-  --color-info-content: oklch(0% 0 0);
-  --color-success: oklch(64.8% 0.15 160);
-  --color-success-content: oklch(0% 0 0);
-  --color-warning: oklch(84.71% 0.199 83.87);
-  --color-warning-content: oklch(0% 0 0);
-  --color-error: oklch(71.76% 0.221 22.18);
-  --color-error-content: oklch(0% 0 0);
-  --radius-selector: 1rem;
-  --radius-field: 0.5rem;
-  --radius-box: 1rem;
-  --size-selector: 0.25rem;
-  --size-field: 0.25rem;
-  --border: 1px;
+  --color-base-100: #FCFAFF;
+  --color-base-200: #E2C8FA;
+  --color-base-300: #A9A0F0;
+  --color-base-content: black;
+  --color-primary: #C59AEF;
+  --color-primary-content: black;
+  --color-secondary: #A9A0F0;
+  --color-secondary-content: black;
+  --color-accent: #F295DD;
+  --color-accent-content: black;
+  --color-neutral: oklch(43% 0 0);
+  --color-neutral-content: oklch(98% 0 0);
+  --color-info: oklch(51% 0.262 276.966);
+  --color-info-content: oklch(97% 0.014 254.604);
+  --color-success: oklch(64% 0.2 131.684);
+  --color-success-content: oklch(98% 0.031 120.757);
+  --color-warning: oklch(55% 0.135 66.442);
+  --color-warning-content: oklch(98% 0.026 102.212);
+  --color-error: oklch(57% 0.245 27.325);
+  --color-error-content: oklch(96% 0.015 12.422);
+  --radius-selector: 2rem;
+  --radius-field: 2rem;
+  --radius-box: 2rem;
+  --size-selector: 0.3125rem;
+  --size-field: 0.28125rem;
+  --border: 2px;
   --depth: 0;
   --noise: 0;
 }
 
 @source "hugo_stats.json";
 
+@font-face {
+  font-family: 'Hey Comic';
+  src: url('/fonts/hey_comic.otf') format("opentype"),
+    url('/fonts/hey_comic.otf') format("truetype");
+}
+
+body {
+  font-family: "Hey Comic", sans-serif;
+}
+
 details {
   cursor: pointer;
+}
+
+.btn {
+  font-weight: 300;
+  border: 2px solid black;
 }
 
 .prose p,
@@ -51,6 +67,7 @@ details {
 .prose details,
 .prose li {
   font-size: 1.2rem;
+  line-height: 1.8;
 }
 
 .prose h3 {

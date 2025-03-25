@@ -9,15 +9,16 @@
     {{ partialCached "js.html" . }}
     {{ partialCached "pwa.html" . }}
   </head>
-  <body class="pb-36">
+  <body class="pb-36 bg-base-100">
     <div class="drawer">
       <input id="concept-drawer" type="checkbox" class="drawer-toggle" />
       <div class="drawer-content">
-        <div class="hero bg-base-200">
+        <div class="hero border-b-3 bg-base-200">
           <div class="hero-content text-center">
             <div class="max-w-md">
-              <h1 class="text-5xl font-bold">{{ .Site.Title }}</h1>
-              <p class="py-6">
+              <h1 class="text-5xl font-bold hidden">{{ .Site.Title }}</h1>
+              <img src="/images/logo.svg" alt="logo do projeto ao lado do nome ensine uma criança" class="mx-auto my-6 max-h-44" />
+              <p class="py-1">
                 {{ .Site.Params.summary | safeHTML }}
               </p>
             </div>

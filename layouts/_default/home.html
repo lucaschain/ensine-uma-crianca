@@ -1,7 +1,7 @@
 {{ define "main" }}
   <div class="flex content-center max-w-5xl flex-wrap justify-evenly left-0 right-0 m-auto mt-10 gap-y-10">
   {{ range where site.RegularPages "Section" "atividades" }}
-    <div class="card bg-base-100 w-96 shadow-sm">
+    <div class="card bg-base-200 w-96 shadow-sm border-2 mx-2">
       <figure>
         {{ $image := .Resources.Get "cover.png" }}
         {{ $summary := .Summary }}
@@ -13,9 +13,9 @@
       </figure>
       <div class="card-body">
         <h2 class="card-title">{{ .LinkTitle }}</h2>
-    <p>{{ .Summary }}</p>
+        <p>{{ .Summary }}</p>
         <div class="card-actions justify-end">
-          <a href="{{ .RelPermalink }}" class="btn btn-primary">Acessar</a>
+          <a href="{{ .RelPermalink }}" class="btn btn-accent">Acessar</a>
         </div>
       </div>
     </div>
