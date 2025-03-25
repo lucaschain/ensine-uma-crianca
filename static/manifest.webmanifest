@@ -5,23 +5,26 @@
     {
       "src": "/images/icons/512.svg",
       "type": "image/svg+xml",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "maskable"
     },
     {
       "src": "/images/icons/192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "maskable"
     },
     {
       "src": "/images/icons-512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "maskable"
     }
   ],
-  "id": "/?source=pwa",
-  "start_url": "/?source=pwa",
+  "id": "ensineumacrianca",
+  "start_url": "/?fullscreen=true&source=pwa",
   "background_color": "#E2C8FA",
-  "display": "standalone",
+  "display": "fullscreen",
   "scope": "/",
   "theme_color": "#C59AEF",
   "description": "Ensine uma criança a programar sem saber programar"
