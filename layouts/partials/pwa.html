@@ -1,10 +1,19 @@
-<meta name="viewport" content="viewport-fit=cover,width=device-width, initial-scale=1">
+<meta name="viewport" content="viewport-fit=cover,width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
 <link rel="manifest" href="/manifest.webmanifest">
 <meta name="mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-title" content="Ensine uma Criança" />
+<meta name="application-name" content="Ensine uma Criança" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 <meta name="msapplication-TileColor" content="#C59AEF">
+
+
+<link rel="icon" type="image/png" href="/images/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" />
+<link rel="shortcut icon" href="/images/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png" />
+
+
 <meta name="theme-color" content="#C59AEF">
 {{ with resources.Get "js/sw.ts" }}
   {{ $opts := dict
