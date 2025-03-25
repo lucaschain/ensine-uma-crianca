@@ -6,6 +6,7 @@
 <meta name="application-name" content="Ensine uma Criança" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 <meta name="msapplication-TileColor" content="#C59AEF">
+<meta name="theme-color" content="#C59AEF">
 
 
 <link rel="icon" type="image/png" href="/images/favicon-96x96.png" sizes="96x96" />
@@ -14,7 +15,6 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png" />
 
 
-<meta name="theme-color" content="#C59AEF">
 {{ with resources.Get "js/sw.ts" }}
   {{ $opts := dict
     "minify" hugo.IsProduction
