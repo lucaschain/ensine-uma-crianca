@@ -1,8 +1,11 @@
 <meta name="viewport" content="viewport-fit=cover,width=device-width, initial-scale=1">
 <link rel="manifest" href="/manifest.webmanifest">
 <meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-title" content="Ensine uma Criança" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="msapplication-TileColor" content="#C59AEF">
+<meta name="theme-color" content="#C59AEF">
 {{ with resources.Get "js/sw.ts" }}
   {{ $opts := dict
     "minify" hugo.IsProduction
@@ -14,6 +17,16 @@
       if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('{{ .RelPermalink }}');
       };
+      window.addEventListener('beforeinstallprompt', async (e) => {
+        // Prevent the mini-infobar from appearing on mobile
+        e.preventDefault();
+        // Stash the event so it can be triggered later.
+        e.prompt();
+        // deferredPrompt = e;
+        // Update UI notify the user they can install the PWA
+        // showInstallPromotion();
+        // Optionally, send analytics event that PWA install promo was shown.
+      });
     </script>
   {{ end }}
 {{ end }}
