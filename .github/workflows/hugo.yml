@@ -35,6 +35,7 @@ jobs:
       - name: Install Tailwind
         run: |
           npm install -g tailwindcss @tailwindcss/cli
+          tailwindcss --version
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
