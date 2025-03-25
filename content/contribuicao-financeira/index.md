@@ -28,10 +28,6 @@ Com o atual volume de doações, o destino do dinheiro é imprevisível, mas a o
 {{< details summary="Pix" >}}
 <img width="250" class="border-1" alt="Logo DVD andando na tela da TV, batendo nas paredes" src="pix_qr.png"/>
 
-**Pix copia e cola:**
-
-`00020126580014br.gov.bcb.pix01362667dea5-a35f-449a-9709-bd3d73811e565204000053039865802BR5921LUCAS CHAIN GONCALVES6009Sao Paulo62290525REC67DF08E65B4935918670876304F0D7`
-
 **Chave:**
 
 `doar@ensineumacrianca.com.br`
