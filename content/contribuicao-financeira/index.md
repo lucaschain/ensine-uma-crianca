@@ -34,5 +34,5 @@ Com o atual volume de doações, o destino do dinheiro é imprevisível, mas a o
 
 **Chave:**
 
-`2667dea5-a35f-449a-9709-bd3d73811e56`
+`doar@ensineumacrianca.com.br`
 {{< /details >}}
