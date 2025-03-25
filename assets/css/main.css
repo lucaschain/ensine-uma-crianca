@@ -11,15 +11,17 @@
   default: true;
   prefersdark: false;
   color-scheme: "light";
+
   --color-base-100: #FCFAFF;
   --color-base-200: #E2C8FA;
   --color-base-300: #A9A0F0;
-  --color-base-content: black;
   --color-primary: #C59AEF;
-  --color-primary-content: black;
   --color-secondary: #A9A0F0;
-  --color-secondary-content: black;
   --color-accent: #F295DD;
+
+  --color-base-content: black;
+  --color-primary-content: black;
+  --color-secondary-content: black;
   --color-accent-content: black;
   --color-neutral: oklch(43% 0 0);
   --color-neutral-content: oklch(98% 0 0);
