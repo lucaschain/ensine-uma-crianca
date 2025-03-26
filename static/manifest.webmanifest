@@ -13,11 +13,27 @@
       "type": "image/png"
     }
   ],
+  "screenshots": [
+      {
+        "src": "images/screenshots/atividade.jpg",
+        "sizes": "720x1600",
+        "type": "image/jpg"
+      }
+  ],
+  "launch_handler": {
+    "client_mode": "navigate-existing"
+  },
   "id": "ensineumacrianca",
   "start_url": "/?source=pwa",
   "background_color": "#E2C8FA",
   "display": "standalone",
   "scope": "/",
   "theme_color": "#C59AEF",
-  "description": "Ensine uma criança a programar sem saber programar"
+  "description": "Ensine uma criança a programar sem saber programar",
+  "lang": "pt",
+  "orientation": "portrait",
+  "categories": [
+    "education",
+    "kids"
+  ]
 }
