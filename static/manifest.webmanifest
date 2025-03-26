@@ -5,20 +5,18 @@
     {
       "src": "/images/web-app-manifest-192x192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
+      "type": "image/png"
     },
     {
       "src": "/images/web-app-manifest-512x512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
+      "type": "image/png"
     }
   ],
   "id": "ensineumacrianca",
-  "start_url": "/?fullscreen=true&source=pwa",
+  "start_url": "/?source=pwa",
   "background_color": "#E2C8FA",
-  "display": "fullscreen",
+  "display": "standalone",
   "scope": "/",
   "theme_color": "#C59AEF",
   "description": "Ensine uma criança a programar sem saber programar"
