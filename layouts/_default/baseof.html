@@ -41,6 +41,7 @@
         <div class="navbar bg-base-100 shadow-sm p-4 prose rounded-br-2xl pb-36" id="concept-drawer-contents"></div>
       </div>
     </div>
-    {{ partial "dock.html" . }}
+    {{ partialCached "dock.html" . }}
+    {{ partialCached "add-to-home-screen.html" . }}
   </body>
 </html>

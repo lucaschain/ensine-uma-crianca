@@ -1,4 +1,29 @@
-document.addEventListener('DOMContentLoaded', function() {
+function registerBeforeInstallPwa() {
+  let deferredPrompt;
+  window.addEventListener('beforeinstallprompt', async (e) => {
+    e.preventDefault();
+    deferredPrompt = e;
+    const alert = document.getElementById('install-alert');
+
+    if (!alert) {
+      return;
+    }
+    alert.classList.remove('hidden');
+
+    const noButton = document.getElementById('install-alert-no');
+    noButton?.addEventListener('click', () => {
+      alert.classList.add('hidden');
+    });
+
+    const yesButton = document.getElementById('install-alert-yes');
+    yesButton?.addEventListener('click', () => {
+      alert.classList.add('hidden');
+      deferredPrompt.prompt();
+    });
+  });
+}
+
+function bindConceitoLinks() {
   const isConceitoLinkRegex = /\/conceitos\/[a-z0-9-]+\/?$/;
   const conceptsContainer = document.getElementById('concepts');
   const drawerContentsContainer = document.getElementById('concept-drawer-contents');
@@ -24,4 +49,9 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     }
   });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  registerBeforeInstallPwa();
+  bindConceitoLinks();
 });

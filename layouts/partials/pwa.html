@@ -26,15 +26,26 @@
       if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('{{ .RelPermalink }}');
       };
+      let deferredPrompt;
       window.addEventListener('beforeinstallprompt', async (e) => {
-        // Prevent the mini-infobar from appearing on mobile
         e.preventDefault();
-        // Stash the event so it can be triggered later.
-        e.prompt();
-        // deferredPrompt = e;
-        // Update UI notify the user they can install the PWA
-        // showInstallPromotion();
-        // Optionally, send analytics event that PWA install promo was shown.
+        deferredPrompt = e;
+        const alert = document.getElementById('install-alert');
+
+        if (alert) {
+          alert.classList.remove('hidden');
+        }
+
+        const noButton = alert.getElementById('install-alert-no');
+        noButton.addEventListener('click', () => {
+          alert.classList.add('hidden');
+        });
+
+        const yesButton = alert.getElementById('install-alert-yes');
+        yesButton.addEventListener('click', () => {
+          alert.classList.add('hidden');
+          deferredPrompt.prompt();
+        });
       });
     </script>
   {{ end }}
