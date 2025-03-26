@@ -19,7 +19,7 @@
   {{ $opts := dict
     "minify" hugo.IsProduction
     "sourceMap" (cond hugo.IsProduction "" "external")
-    "targetPath" "js/main.ts"
+    "targetPath" "js/main.js"
   }}
     {{ with . | js.Build $opts }}
       <script>
