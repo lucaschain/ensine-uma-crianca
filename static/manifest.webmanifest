@@ -15,6 +15,11 @@
   ],
   "screenshots": [
       {
+        "src": "images/screenshots/home.jpg",
+        "sizes": "720x1600",
+        "type": "image/jpg"
+      },
+      {
         "src": "images/screenshots/atividade.jpg",
         "sizes": "720x1600",
         "type": "image/jpg"
