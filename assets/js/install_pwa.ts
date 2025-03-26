@@ -1,7 +1,11 @@
+interface BeforeInstallPromptEvent extends Event {
+  prompt(): Promise<void>;
+}
+
 export function registerBeforeInstallPwa() {
-  let deferredPrompt;
+  let deferredPrompt: BeforeInstallPromptEvent;
   const decided = localStorage.getItem('install-pwa-decided');
-  window.addEventListener('beforeinstallprompt', async (e) => {
+  window.addEventListener('beforeinstallprompt', async (e: BeforeInstallPromptEvent) => {
     e.preventDefault();
     deferredPrompt = e;
     const alert = document.getElementById('install-alert');

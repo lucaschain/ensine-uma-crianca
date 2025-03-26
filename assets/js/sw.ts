@@ -4,8 +4,7 @@
 
 const cacheName = 'files';
 
-addEventListener('fetch', fetchEvent => {
-  const ev = fetchEvent as FetchEvent;
+addEventListener('fetch', (ev: FetchEvent) => {
   const request = ev.request;
   if (request.method !== 'GET') {
     return;

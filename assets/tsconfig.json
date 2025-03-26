@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "preserveConstEnums": true
+    "lib": [ "es2018", "dom", "webworker" ]
+  },
+  "include": ["js/**/*"]
+}
