@@ -21,7 +21,7 @@ Siga os passos do material e acompanhe cada etapa da atividade nos tópicos abai
 {{< details summary="Introdução" >}}
 Veja como o projeto final pode ficar clicando na bandeira verde.
 
-Você vai ver que sim, é possível fazer [animações](/conceitos/animacoes) com [código](/conceitos/codigo)!
+Você vai ver que sim, é possível fazer [animações](/conceitos/animacoes/) com [código](/conceitos/codigo/)!
 {{< /details >}}
 
 {{< details summary="Crie o cenário do teu ônibus" >}}
@@ -29,7 +29,7 @@ Você pode fazer um *Remix* do projeto inicial ou criar um novo.
 
 Após adicionar o cenário e o ônibus, você vai conhecer o mais importante bloco do Scratch.
 
-É um bloco do tipo *Evento* (aqueles que são o início de todos os trechos de [código](/conceitos/codigo)).
+É um bloco do tipo *Evento* (aqueles que são o início de todos os trechos de [código](/conceitos/codigo/)).
 
 O bloco é: `quando (bandeira verde) for clicado`
 
@@ -39,12 +39,12 @@ Todos os blocos que estiverem encaixados abaixo desse bloco serão executados de
 
 ### Posição
 
-Depois que você posicionar o ônibus, procure no painel do [ator](/conceitos/atores) na direita e use o `X` e `Y` mostrados pra adicionar o bloco `Vá para x ... y ...` abaixo do nosso bloco inicial.
+Depois que você posicionar o ônibus, procure no painel do [ator](/conceitos/atores/) na direita e use o `X` e `Y` mostrados pra adicionar o bloco `Vá para x ... y ...` abaixo do nosso bloco inicial.
 
 Esse bloco serve pra colocarmos o *ator* (ônibus) no seu lugar sempre que o jogo começar. Isso é a mesma coisa que colocar as peças do tabuleiro no lugar correto antes de começar uma partida.
 
 Siga esse links pra entender mais:
-- [posicionamento e camadas](/conceitos/posicionamento)
+- [posicionamento e camadas](/conceitos/posicionamento/)
 {{< /details >}}
 
 {{< details summary="O Gato Scratch alcança o ônibus" >}}
@@ -53,7 +53,7 @@ Siga esse links pra entender mais:
 
 Assim como colocamos o ônibus no lugar correto quando iniciarmos o jogo, vamos colocar o Gato Scratch, nosso segundo ator, utilizando o bloco `Vá para x ... y ...`. Os números de `X` e `Y` são informados pelo material e vão fazer com que o Gato Scratch comece no lado inferior direito do *palco*.
 
-Pra melhorarmos nossa animação, vamos fazer com que o gato olhe para o lado que está andando, e pra fazermos isso, vamos usar o conceito de [direção](/conceitos/direcao).
+Pra melhorarmos nossa animação, vamos fazer com que o gato olhe para o lado que está andando, e pra fazermos isso, vamos usar o conceito de [direção](/conceitos/direcao/).
 
 Naturalmente, mudar a direção vai *girar* nosso ator, e não é esse comportamento que queremos. Nossa intenção é que o gato olhe pra direita ou pra esquerda, sem girar. Por causa disso, o material nos instrui a trocar o modo de direção do gato para `esquerda ou direita`.
 
@@ -61,35 +61,35 @@ Naturalmente, mudar a direção vai *girar* nosso ator, e não é esse comportam
 
 ### Fazendo a animação
 
-Nesse trecho do material, você vai aprender a utilizar os [blocos de repetição](/conceitos/repeticoes) pra criar [animações](/conceitos/animacoes). O truque vai ser mover nosso [ator](/conceitos/atores) um pouco de cada vez, dando a ilusão de movimento.
+Nesse trecho do material, você vai aprender a utilizar os [blocos de repetição](/conceitos/repeticoes/) pra criar [animações](/conceitos/animacoes/). O truque vai ser mover nosso [ator](/conceitos/atores/) um pouco de cada vez, dando a ilusão de movimento.
 
 Pra trazer mais realidade corrida do gato, o material nos instrui como usar o bloco `Próxima fantasia` pra fazer o gato mexer os braços.
 
-No final dessa seção, você vai usar os blocos `mostre` e `esconda` pra dizer que o gato deve estar visível no começo do jogo, e desaparecer ao terminar a [animação](/conceitos/animacoes).
+No final dessa seção, você vai usar os blocos `mostre` e `esconda` pra dizer que o gato deve estar visível no começo do jogo, e desaparecer ao terminar a [animação](/conceitos/animacoes/).
 
 Siga esse links pra entender mais:
-- [direção](/conceitos/direcao)
-- [repetições](/conceitos/repeticoes)
-- [animações](/conceitos/animacoes)
-- [fantasias](/conceitos/fantasias)
+- [direção](/conceitos/direcao/)
+- [repetições](/conceitos/repeticoes/)
+- [animações](/conceitos/animacoes/)
+- [fantasias](/conceitos/fantasias/)
 {{< /details >}}
 
 {{< details summary="O hipopótamo alcança o ônibus voando" >}}
-Nessa seção da atividade, vamos adicionar um novo [ator](/conceitos/atores), o hipopótamo.
+Nessa seção da atividade, vamos adicionar um novo [ator](/conceitos/atores/), o hipopótamo.
 
-Os blocos referentes ao posicionamento, movimento, e troca de fantasia, serão como fizemos no [ator](/conceitos/atores) anterior, com uma pequena diferença:
+Os blocos referentes ao posicionamento, movimento, e troca de fantasia, serão como fizemos no [ator](/conceitos/atores/) anterior, com uma pequena diferença:
 
-A direção do hipopótamo vai se comportar de forma diferente e vai fazer com que o [ator](/conceitos/atores) "olhe" para algum alvo. Nesse caso, ele vai "olhar" pro ônibus usando o bloco `aponte para ...`.
+A direção do hipopótamo vai se comportar de forma diferente e vai fazer com que o [ator](/conceitos/atores/) "olhe" para algum alvo. Nesse caso, ele vai "olhar" pro ônibus usando o bloco `aponte para ...`.
 {{< /details >}}
 
 {{< details summary="O ônibus parte" >}}
-Aqui somos apresentados a um novo bloco de [evento](/conceitos/eventos): `quando [cronômetro] > ...`.
+Aqui somos apresentados a um novo bloco de [evento](/conceitos/eventos/): `quando [cronômetro] > ...`.
 
 Nossa intenção aqui é que algo aconteça depois de `4` segundos que o jogo começar. Nesse caso, o ônibus começar a se mover.
 
 Essa seção também apresenta uma forma diferente de movimentarmos um ator, com o bloco `deslize por ... segs. até ...`. Não esqueça de adicionar o bloco `esconda` pra fazer com que o ônibus suma ao chegar em seu destino.
 
-Assim como nossos outros [atores](/conceitos/atores), queremos que o ônibus esteja na posição correta e preparado pra ser animado quando o jogo começar. Por causa disso, somos instruidos a definir algumas coisas `quando a bandeira verde for clicada`:
+Assim como nossos outros [atores](/conceitos/atores/), queremos que o ônibus esteja na posição correta e preparado pra ser animado quando o jogo começar. Por causa disso, somos instruidos a definir algumas coisas `quando a bandeira verde for clicada`:
 
 - Definir a posição inicial (`vá para ...`)
 - Colocar o ônibus no plano de fundo (`vá para a camada de trás`)
@@ -99,11 +99,11 @@ Assim como nossos outros [atores](/conceitos/atores), queremos que o ônibus est
 > 💡 Essas definições que fizemos quando o jogo começa são como arrumar as peças de um jogo de tabuleiro antes de começar a jogar
 
 Siga esse links pra entender mais:
-- [eventos](/conceitos/eventos)
-- [fantasias (efeitos)](/conceitos/fantasias)
-- [animações](/conceitos/animacoes)
-- [posicionamento (camadas)](/conceitos/posicionamento)
-- [fantasias](/conceitos/fantasias)
+- [eventos](/conceitos/eventos/)
+- [fantasias (efeitos)](/conceitos/fantasias/)
+- [animações](/conceitos/animacoes/)
+- [posicionamento (camadas)](/conceitos/posicionamento/)
+- [fantasias](/conceitos/fantasias/)
 {{< /details >}}
 
 {{< details summary="Perdendo o ônibus" >}}
@@ -113,11 +113,11 @@ Uma das formas de fazer isso é usarmos um bloco de controle chamado `espere ...
 
 Esse bloco faz apenas uma coisa: aguarda um período de tempo até que o próximo bloco seja executado.
 
-Essa seção te instrui a adicionar blocos de `espere ... seg` durante a [animação](/conceitos/animacoes)do gato para que ele fique mais lento e não consiga alcançar o ônibus.
+Essa seção te instrui a adicionar blocos de `espere ... seg` durante a [animação](/conceitos/animacoes/)do gato para que ele fique mais lento e não consiga alcançar o ônibus.
 {{< /details >}}
 
 {{< details summary="Mudando o destino" >}}
-Agora deixe suas habilidades artisticas fluírem: desenhe na [fantasia](/conceitos/fantasias) do ônibus do jeito que preferir.
+Agora deixe suas habilidades artisticas fluírem: desenhe na [fantasia](/conceitos/fantasias/) do ônibus do jeito que preferir.
 
 > 💡 Esse é o seu universo, então não prenda sua imaginação na hora de mudar a fantasia
 {{< /details >}}
@@ -127,5 +127,5 @@ Aproveite essa seção pra testar seus conhecimentos. Você pode tentar quantas 
 {{< /details >}}
 
 {{< details summary="Melhore o seu projeto" >}}
-Explore ainda mais a ferramenta e tente adicionar novos [atores](/conceitos/atores) com diferentes tipos de movimento!
+Explore ainda mais a ferramenta e tente adicionar novos [atores](/conceitos/atores/) com diferentes tipos de movimento!
 {{< /details >}}

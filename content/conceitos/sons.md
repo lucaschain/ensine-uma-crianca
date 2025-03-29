@@ -4,7 +4,7 @@ date: 2022-10-16T17:46:58-03:00
 draft: false
 ---
 
-**Sons** representam todo o tipo de voz, barulho, efeito ou música que um [ator](/conceitos/atores) ou cenário podem emitir.
+**Sons** representam todo o tipo de voz, barulho, efeito ou música que um [ator](/conceitos/atores/) ou cenário podem emitir.
 
 São gerenciados através da aba **Sons**, onde podem ser adicionados, removidos, editados e renomeados.
 

@@ -22,12 +22,12 @@ Siga os passos do material e acompanhe cada etapa da atividade nos tópicos abai
 {{< details summary="Introdução" >}}
 A introdução da atividade apresenta o projeto e alguns conceitos importantes do Scratch:
 
-- **ator**: todos os personagens e objetos do jogo, como [atores e atrizes](/conceitos/atores) em uma peça de teatro;
-- **palco**: o espaço virtual do jogo, onde ficam ficam **[atores](/conceitos/atores)**;
+- **ator**: todos os personagens e objetos do jogo, como [atores e atrizes](/conceitos/atores/) em uma peça de teatro;
+- **palco**: o espaço virtual do jogo, onde ficam ficam **[atores](/conceitos/atores/)**;
 
-Tanto **[atores](/conceitos/atores)** quanto o **palco** são representados visualmente na tela do jogo, por **fantasias** e **cenários**, respectivamente.
+Tanto **[atores](/conceitos/atores/)** quanto o **palco** são representados visualmente na tela do jogo, por **fantasias** e **cenários**, respectivamente.
 
-- **fantasia**: é a "roupa" do **ator**. Um [ator](/conceitos/atores) pode ter múltiplas fantasias, assim como personagens trocando de figurino numa peça de teatro;
+- **fantasia**: é a "roupa" do **ator**. Um [ator](/conceitos/atores/) pode ter múltiplas fantasias, assim como personagens trocando de figurino numa peça de teatro;
 - **cenário**: é o visual de um **palco**. Assim como em uma peça de teatro, o cenário de um palco pode mudar.
 
 > 💡 Clique na bandeira verde dentro do bloco "Experimente" pra ver como o jogo vai ficar ao final dessa atividade
@@ -44,24 +44,24 @@ Depois de seguir os passos desse capítulo, salve o projeto clicando em "Salvar 
 {{< /details >}}
 
 {{< details summary="Pico diz olá" >}}
-Nessa seção, você vai ver que além de **fantasias**, um **ator** pode ter **[código](/conceitos/codigo)**, que vai dizer como o [ator](/conceitos/atores) e comporta.
+Nessa seção, você vai ver que além de **fantasias**, um **ator** pode ter **[código](/conceitos/codigo/)**, que vai dizer como o [ator](/conceitos/atores/) e comporta.
 
 Pontos importantes:
 
-- Um [código](/conceitos/codigo) é feito através de **blocos**;
+- Um [código](/conceitos/codigo/) é feito através de **blocos**;
 - Você pode executar o comando de um bloco clicando nele;
 - Blocos são conectados com outros blocos, e são executados de cima pra baixo;
 - Existem diferentes tipos de blocos. Nessa etapa, vimos um bloco do tipo **Aparência** e um do tipo **Evento**;
-- Todos os blocos de [código](/conceitos/codigo) devem começar a partir de um bloco do tipo **Evento**, por exemplo `Quando este ator for clicado`
+- Todos os blocos de [código](/conceitos/codigo/) devem começar a partir de um bloco do tipo **Evento**, por exemplo `Quando este ator for clicado`
 {{< /details >}}
 
 {{< details summary="Pico toca um som" >}}
-Além de **[código](/conceitos/codigo)** e **fantasia**, a última parte importante de um [ator](/conceitos/atores) é o **som**. [atores](/conceitos/atores) podem emitir sons, falar, ou até mesmo tocar música.
+Além de **[código](/conceitos/codigo/)** e **fantasia**, a última parte importante de um [ator](/conceitos/atores/) é o **som**. [atores](/conceitos/atores/) podem emitir sons, falar, ou até mesmo tocar música.
 
 Pontos importantes:
 
 - Blocos de **Som** são parecidos com blocos de **Aparência**, a única diferença é que eles lidam com áudio ao invés de imagem;
-- Assim como **fantasias**, você pode adicionar múltiplos **sons** a [atores](/conceitos/atores).
+- Assim como **fantasias**, você pode adicionar múltiplos **sons** a [atores](/conceitos/atores/).
 {{< /details >}}
 
 {{< details summary="Nano troca de fantasias" >}}
@@ -69,12 +69,12 @@ Essa seção explica como trocar a fantasia de um **Ator** e como alterar fantas
 
 Pontos importantes:
 
-- Blocos de **Aparência** também podem servir pra trocar a **fantasia** de [atores](/conceitos/atores);
+- Blocos de **Aparência** também podem servir pra trocar a **fantasia** de [atores](/conceitos/atores/);
 - Você pode usar a aba **Fantasias** de um **ator** pra editar ou criar novas fantasias;
 {{< /details >}}
 
 {{< details summary="Giga muda de cor" >}}
-Existem formas de adicionar efeitos nas **fantasias** dos **[atores](/conceitos/atores)** com alguns blocos do tipo **Aparência**.
+Existem formas de adicionar efeitos nas **fantasias** dos **[atores](/conceitos/atores/)** com alguns blocos do tipo **Aparência**.
 
 > 💡 Experimente com diferentes efeitos e valores
 {{< /details >}}
