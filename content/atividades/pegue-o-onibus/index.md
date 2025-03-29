@@ -6,6 +6,8 @@ summary: "Aprendendo movimentação no Scratch"
 weight: 3
 params:
   type: suporte
+  images:
+    - cover.png
 ---
 
 **Módulo:** [0 - Introdução](https://projects.raspberrypi.org/pt-BR/pathways/scratch-intro)

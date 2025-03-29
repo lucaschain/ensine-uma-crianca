@@ -4,6 +4,9 @@ date: 2022-10-13T13:30:00-03:00
 draft: false
 weight: 1
 summary: "Criando uma conta e explorando o Scratch"
+params:
+  images:
+    - cover.png
 ---
 
 Antes de começar, lembre-se de [criar uma conta](https://scratch.mit.edu/join) na plataforma Scratch.

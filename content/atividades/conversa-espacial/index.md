@@ -6,6 +6,9 @@ summary: "Como fazer atores falarem"
 weight: 2
 params:
   type: suporte
+params:
+  images:
+    - cover.png
 ---
 
 **Módulo:** [0 - Introdução](https://projects.raspberrypi.org/pt-BR/pathways/scratch-intro)

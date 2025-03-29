@@ -9,6 +9,7 @@
     {{ partialCached "css.html" . }}
     {{ partialCached "js.html" . }}
     {{ partialCached "pwa.html" . }}
+    {{ template "_internal/opengraph.html" . }}
   </head>
   <body class="pb-36 bg-base-100">
     <div class="drawer">
@@ -20,7 +21,7 @@
               <h1 class="text-5xl font-bold hidden">{{ .Site.Title }}</h1>
               <img src="/images/logo.svg" alt="logo do projeto ao lado do nome ensine uma criança" class="mx-auto my-6 max-h-44" />
               <p class="py-1">
-                {{ .Site.Params.summary | safeHTML }}
+                {{ .Site.Params.description | safeHTML }}
               </p>
             </div>
           </div>

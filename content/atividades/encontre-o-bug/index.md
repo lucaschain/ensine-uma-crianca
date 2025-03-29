@@ -6,6 +6,8 @@ summary: "Fazendo um jogo de encontrar insetos"
 weight: 4
 params:
   type: suporte
+  images:
+    - cover.png
 ---
 
 **Módulo:** [0 - Introdução](https://projects.raspberrypi.org/pt-BR/pathways/scratch-intro)
