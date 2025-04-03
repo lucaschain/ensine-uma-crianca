@@ -9,6 +9,8 @@ params:
     - cover.png
 ---
 
+{{< youtube tex6bCu1nT8  >}}
+
 Antes de começar, lembre-se de [criar uma conta](https://scratch.mit.edu/join) na plataforma Scratch.
 
 Depois de criar sua conta, faça login e familiarize-se com Scratch. Uma boa forma de fazer isso é criar um projeto e explorar a ferramenta por 10 minutos.
