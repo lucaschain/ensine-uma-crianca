@@ -1,5 +1,5 @@
 ---
-title: "Conversa Espacial"
+title: "1 - Conversa Espacial"
 date: 2022-10-13T13:25:00-03:00
 draft: false
 summary: "Como fazer atores falarem"
@@ -14,6 +14,8 @@ params:
 **Módulo:** [0 - Introdução](https://projects.raspberrypi.org/pt-BR/pathways/scratch-intro)
 
 **Atividade:** [1 - Conversa Espacial](https://projects.raspberrypi.org/pt-BR/projects/space-talk/0)
+
+{{< youtube tex6bCu1nT8  >}}
 
 Pra começar, abra o link do material clicando no nome da atividade aqui em cima e comece pela introdução.
 

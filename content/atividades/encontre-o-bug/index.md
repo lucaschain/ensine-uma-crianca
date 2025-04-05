@@ -1,5 +1,5 @@
 ---
-title: "Encontre o Bug"
+title: "3 - Encontre o Bug"
 date: 2025-03-21T13:30:00-03:00
 draft: false
 summary: "Fazendo um jogo de encontrar insetos"
@@ -13,7 +13,6 @@ params:
 **Módulo:** [0 - Introdução](https://projects.raspberrypi.org/pt-BR/pathways/scratch-intro)
 
 **Atividade:** [3 - Encontre o Bug](https://projects.raspberrypi.org/pt-BR/projects/find-the-bug)
-
 
 > 💡 Sabia que o primeiro bug de computador era um inseto (bug em inglês) de verdade?
 > Ele foi encontrado e registrado por [Grace Hopper](https://pt.wikipedia.org/wiki/Grace_Hopper), uma das pessoas mais influentes na história da computação.
@@ -50,7 +49,6 @@ Aqui é a primeira vez que vemos o bloco `Defina o estilo de rotação para ...`
 Esse bloco serve pra controlar como nosso ator vai se comportar quando girarmos a imagem dele.
 
 <img class="border-1" alt="Demonstração da rotação do papagaio com cada estilo de rotação" src="parrot-rotacao.gif"/>
-
 
 Essa configuração pode ser feita pelo próprio painel de atores:
 

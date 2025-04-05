@@ -4,7 +4,7 @@ defaultContentLanguage: 'pt'
 title: 'Ensine uma Criança'
 
 params:
-  description: 'Um roteiro pra te ajudar a guiar o aprendizado de uma criança em Tecnologia, usando <a target="_blank" href="https://pt.wikipedia.org/wiki/Scratch">Scratch</a>.'
+  description: 'Um roteiro pra te ajudar a guiar o aprendizado de uma criança em tecnologia, usando <a target="_blank" href="https://pt.wikipedia.org/wiki/Scratch">Scratch</a>.'
   images:
     - images/web-app-manifest-512x512.png
 

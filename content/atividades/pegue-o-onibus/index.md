@@ -1,5 +1,5 @@
 ---
-title: "Pegue o Ônibus"
+title: "2 - Pegue o Ônibus"
 date: 2022-10-13T13:24:00-03:00
 draft: false
 summary: "Aprendendo movimentação no Scratch"
@@ -12,7 +12,7 @@ params:
 
 **Módulo:** [0 - Introdução](https://projects.raspberrypi.org/pt-BR/pathways/scratch-intro)
 
-**Atividade:** [1 - Pegue o Ônibus](https://projects.raspberrypi.org/pt-BR/projects/catch-the-bus/0)
+**Atividade:** [2 - Pegue o Ônibus](https://projects.raspberrypi.org/pt-BR/projects/catch-the-bus/0)
 
 Pra começar, abra o link do material clicando no nome da atividade aqui em cima e comece pela introdução.
 
@@ -44,6 +44,7 @@ Depois que você posicionar o ônibus, procure no painel do [ator](/conceitos/at
 Esse bloco serve pra colocarmos o *ator* (ônibus) no seu lugar sempre que o jogo começar. Isso é a mesma coisa que colocar as peças do tabuleiro no lugar correto antes de começar uma partida.
 
 Siga esse links pra entender mais:
+
 - [posicionamento e camadas](/conceitos/posicionamento/)
 {{< /details >}}
 
@@ -68,6 +69,7 @@ Pra trazer mais realidade corrida do gato, o material nos instrui como usar o bl
 No final dessa seção, você vai usar os blocos `mostre` e `esconda` pra dizer que o gato deve estar visível no começo do jogo, e desaparecer ao terminar a [animação](/conceitos/animacoes/).
 
 Siga esse links pra entender mais:
+
 - [direção](/conceitos/direcao/)
 - [repetições](/conceitos/repeticoes/)
 - [animações](/conceitos/animacoes/)
@@ -99,6 +101,7 @@ Assim como nossos outros [atores](/conceitos/atores/), queremos que o ônibus es
 > 💡 Essas definições que fizemos quando o jogo começa são como arrumar as peças de um jogo de tabuleiro antes de começar a jogar
 
 Siga esse links pra entender mais:
+
 - [eventos](/conceitos/eventos/)
 - [fantasias (efeitos)](/conceitos/fantasias/)
 - [animações](/conceitos/animacoes/)
