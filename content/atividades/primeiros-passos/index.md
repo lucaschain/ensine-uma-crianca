@@ -4,6 +4,8 @@ date: 2022-10-13T13:30:00-03:00
 draft: false
 weight: 1
 summary: "Criando uma conta e explorando o Scratch"
+aliases:
+  - /1
 params:
   images:
     - cover.png
