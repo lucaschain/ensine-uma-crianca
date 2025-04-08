@@ -15,6 +15,8 @@ params:
 
 **Atividade:** [1 - Conversa Espacial](https://projects.raspberrypi.org/pt-BR/projects/space-talk/0)
 
+**Projeto pronto:** [contém spoilers](https://scratch.mit.edu/projects/1159000126/)
+
 {{< youtube upPBe2EEG5o  >}}
 
 Pra começar, abra o link do material clicando no nome da atividade aqui em cima e comece pela introdução.
