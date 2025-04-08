@@ -4,6 +4,8 @@ date: 2025-03-21T13:30:00-03:00
 draft: false
 summary: "Fazendo um jogo de encontrar insetos"
 weight: 4
+aliases:
+  - /3
 params:
   type: suporte
   images:

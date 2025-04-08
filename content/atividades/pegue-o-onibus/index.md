@@ -4,6 +4,8 @@ date: 2022-10-13T13:24:00-03:00
 draft: false
 summary: "Aprendendo movimentação no Scratch"
 weight: 3
+aliases:
+  - /2
 params:
   type: suporte
   images:

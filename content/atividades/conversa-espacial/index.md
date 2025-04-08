@@ -4,9 +4,10 @@ date: 2022-10-13T13:25:00-03:00
 draft: false
 summary: "Como fazer atores falarem"
 weight: 2
+aliases:
+  - /1
 params:
   type: suporte
-params:
   images:
     - cover.png
 ---

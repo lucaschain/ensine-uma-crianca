@@ -5,7 +5,7 @@ draft: false
 weight: 1
 summary: "Criando uma conta e explorando o Scratch"
 aliases:
-  - /1
+  - /0
 params:
   images:
     - cover.png
