@@ -18,7 +18,7 @@ As matrículas estão fechadas, mas abriremos mais turmas conforme a demanda.
 
 Pra demonstrar interesse, acesse o link abaixo e entraremos em contato com você quando novas turmas abrirem:
 
-- [Inscrever-se](https://forms.gle/BCFCXmc7d1ns4MQz9)
+- [Formulário de Cadastro](https://forms.gle/Y1prVqnbvDhq8Q43A)
 
 ## Requisitos
 
