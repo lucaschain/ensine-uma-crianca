@@ -16,6 +16,8 @@ params:
 
 **Atividade:** [2 - Pegue o Ônibus](https://projects.raspberrypi.org/pt-BR/projects/catch-the-bus/0)
 
+**Projeto pronto:** [contém spoilers](https://scratch.mit.edu/projects/1160660197/)
+
 Pra começar, abra o link do material clicando no nome da atividade aqui em cima e comece pela introdução.
 
 Siga os passos do material e acompanhe cada etapa da atividade nos tópicos abaixo que se aprofundam, contém dicas dicas ou considerações.
