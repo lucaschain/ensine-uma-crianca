@@ -8,7 +8,7 @@ Antes de qualquer coisa: acreditamos no conhecimento livre e acessível pra toda
 
 ## O que é o 'Ensine uma Criança'?
 
-*Ensine uma criança* é um projeto pra mostrar que, mesmo sem saber programar, **você consegue ensinar (e aprender junto) programação e criação de jogos pra uma criança**.
+*Ensine uma criança* é um projeto pra mostrar que, mesmo sem saber programar, **você consegue ensinar (e aprender junto) programação e criação de jogos pra uma criança de 7 a 14 anos**.
 
 > Mas como vou ensinar uma criança sem nem mesmo eu sei programar?
 
@@ -16,15 +16,15 @@ Com a ferramenta [Scratch](https://scratch.mit.edu/), você não precisa saber p
 
 Aqui você vai ver conteúdos em vídeo e texto, passo-a-passo, pra te ajudar a completar as [aulas propostas pelo Code Club](https://projects.raspberrypi.org/pt-BR/collections/scratch), um projeto social voltado ao aprendizado infantil em tecnologia.
 
-## O que é necessário?
+## O que preciso pra começar?
 
 Você só vai precisar de um computador com acesso à internet. Na primeira atividade proposta, você terá instruções pra acessar e criar uma conta no Scratch.
 
-### Consigo fazer pelo celular?
+**Consigo fazer pelo celular?**
 
 Em alguns dispositivos Android é possível acessar o Scratch, mas a experiência é melhor em um computador por conta da tela maior.
 
-Pra saber se o seu celular é compatível, procure o aplicativo `Scratch` na loja de aplicativos do Android ou [clique aqui pra acessar o link direto](https://play.google.com/store/apps/details?id=org.scratch&pcampaignid=web_share).
+Pra saber se o seu celular é compatível, procure o aplicativo `Scratch` na loja de aplicativos do Android ou [clique aqui pra acessar o link direto.](https://play.google.com/store/apps/details?id=org.scratch&pcampaignid=web_share)
 
 ## Exitem formas de ajudar o projeto?
 
@@ -39,8 +39,10 @@ Por fim, também pode ajudar com doações financeiras. As doações financeiras
 - mantimento de um fundo pra futuras ações de impacto social;
 - ajuda de custo pra quem produz conteúdo pro projeto;
 
-Pra fazer uma contribuição financeira, visite essa página:
+Pra fazer uma contribuição financeira, você pode acessar nosso [Apoia-se](https://apoia.se/ensine-uma-crianca)
 
-- [Contribuição Financeira](/contribuicao-financeira/)
+<a href="https://apoia.se/ensine-uma-crianca" target="_blank">
+  <img width="250" alt="Logo do Apoia-se com link para a campanha" src="/contribuicao-financeira/apoia-se.png"/>
+</a>
 
-Conforme o projeto escalar e ganhar tração, o processo de doações vai ser melhor elaborado com transparência e prestação de contas.
+Pra saber mais detalhes, veja a página de [Contribuição Financeira](/contribuicao-financeira/).
