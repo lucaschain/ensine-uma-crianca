@@ -16,6 +16,11 @@ params:
 
 **Atividade:** [3 - Encontre o Bug](https://projects.raspberrypi.org/pt-BR/projects/find-the-bug)
 
+**Projeto pronto:** [contém spoilers](https://scratch.mit.edu/projects/1163037922/)
+
+
+{{< youtube DMcQMf2HbgU >}}
+
 > 💡 Sabia que o primeiro bug de computador era um inseto (bug em inglês) de verdade?
 > Ele foi encontrado e registrado por [Grace Hopper](https://pt.wikipedia.org/wiki/Grace_Hopper), uma das pessoas mais influentes na história da computação.
 
