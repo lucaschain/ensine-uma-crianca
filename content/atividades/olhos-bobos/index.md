@@ -1,9 +1,9 @@
 ---
 title: "4 - Olhos Bobos"
 date: 2025-04-17T15:39:00-03:00
-draft: false
-summary: "Aprendendo movimentação no Scratch"
-weight: 3
+draft: true
+summary: "Fazendo interações com o mouse e efeitos especiais"
+weight: 5
 aliases:
   - /4
 params:
@@ -33,5 +33,7 @@ Além disso, nossa obra de arte também pode ter seus efeitos e fantasias trocad
 {{< /details >}}
 
 {{< details summary="Seu personagem" >}}
+Agora é sua vez! Com base nas ideias anteriores, pense em como seu personagem vai sair.
+
 
 {{< /details >}}
