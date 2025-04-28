@@ -18,6 +18,8 @@ params:
 
 **Projeto pronto:** [contém spoilers](https://scratch.mit.edu/projects/1166315401)
 
+{{< youtube mmdbs9xL0xQ >}}
+
 Pra começar, abra o link do material clicando no nome da atividade aqui em cima e comece pela introdução.
 
 Siga os passos do material e acompanhe cada etapa da atividade nos tópicos abaixo que se aprofundam, contém dicas dicas ou considerações.
