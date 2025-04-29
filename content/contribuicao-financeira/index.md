@@ -16,4 +16,4 @@ Com o atual volume de doações, o destino do dinheiro é imprevisível, mas a o
 - comprar presentes de conclusão de curso pra alunos das aulas online;
 - ajuda de custo pra quem trabalhou no projeto no período;
 
-Confira as recompensas da campanha no apoia-se, que incluem consultoria e aulas de tecnologia.
+Confira as recompensas da campanha no Apoia-se, que incluem consultoria e aulas de tecnologia.
