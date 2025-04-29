@@ -16,7 +16,7 @@ export function bindConceitoLinks() {
         return;
       }
       event.preventDefault();
-      const concept = anchor.href.split('/').pop();
+      const concept = anchor.href.split('/').filter(Boolean).pop();
       const conceptCopy = conceptsContainer.querySelector("[data-concept='" + concept + "']")?.cloneNode(true)
 
       if (conceptCopy) {
