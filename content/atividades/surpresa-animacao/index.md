@@ -16,7 +16,9 @@ params:
 
 **Atividade:** [5 - Surpresa! Animação](https://projects.raspberrypi.org/pt-BR/projects/surprise-animation/0)
 
-**Projeto pronto:** [disponível em breve](#)
+**Projeto pronto:** [contém spoilers](https://scratch.mit.edu/projects/1169294916)
+
+{{< youtube D-DrYcVihNM   >}}
 
 Pra começar, abra o link do material clicando no nome da atividade aqui em cima e comece pela introdução.
 
