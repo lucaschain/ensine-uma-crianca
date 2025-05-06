@@ -18,6 +18,8 @@ params:
 
 **Projeto pronto:** [contém spoilers](https://scratch.mit.edu/projects/1163037922/)
 
+---
+
 
 {{< youtube DMcQMf2HbgU >}}
 
