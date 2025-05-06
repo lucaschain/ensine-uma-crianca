@@ -86,3 +86,7 @@ details {
 img {
   margin: 0 auto;
 }
+
+.card-image-overlay {
+  background-color: #C59AEF99;
+}
