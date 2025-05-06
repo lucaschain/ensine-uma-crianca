@@ -33,7 +33,7 @@
   "background_color": "#E2C8FA",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#C59AEF",
+  "theme_color": "#E2C8FA",
   "description": "Ensine uma criança a programar sem saber programar",
   "lang": "pt",
   "orientation": "portrait",
