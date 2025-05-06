@@ -90,3 +90,7 @@ img {
 .card-image-overlay {
   background-color: #C59AEF99;
 }
+
+.card-image-overlay h2 {
+  text-shadow: ;
+}
