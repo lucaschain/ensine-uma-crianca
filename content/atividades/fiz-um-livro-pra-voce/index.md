@@ -16,6 +16,8 @@ params:
 
 **Atividade:** [6 - Fiz um livro pra você](https://projects.raspberrypi.org/pt-BR/projects/i-made-you-a-book)
 
+**Projeto no Scratch:** [O Pequeno Príncipe](https://scratch.mit.edu/projects/1171484203/)
+
 **Imagens usadas no vídeo**: [clique para baixar](./assets.zip)
 
 ---

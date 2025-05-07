@@ -12,9 +12,9 @@ Antes de qualquer coisa: acreditamos no conhecimento livre e acessível pra toda
 
 > Mas como vou ensinar uma criança sem nem mesmo eu sei programar?
 
-Com a ferramenta [Scratch](https://scratch.mit.edu/), você não precisa saber programar pra ensinar. Scratch é uma linguagem de programação visual, onde você encaixa blocos de comandos pra criar jogos, animações e histórias.
+Com a ferramenta [Scratch,](https://scratch.mit.edu/) você não precisa saber programar pra ensinar. Scratch é uma linguagem de programação visual, onde você encaixa blocos de comandos pra criar jogos, animações e histórias.
 
-Aqui você vai ver conteúdos em vídeo e texto, passo-a-passo, pra te ajudar a completar as [aulas propostas pelo Code Club](https://projects.raspberrypi.org/pt-BR/collections/scratch), um projeto social voltado ao aprendizado infantil em tecnologia.
+Aqui você vai ver conteúdos em vídeo e texto, passo-a-passo, pra te ajudar a completar os [projetos propostos pelo Code Club,](https://projects.raspberrypi.org/pt-BR/collections/scratch) um projeto social voltado ao aprendizado infantil em tecnologia.
 
 ## O que preciso pra começar?
 
@@ -39,10 +39,10 @@ Por fim, também pode ajudar com doações financeiras. As doações financeiras
 - mantimento de um fundo pra futuras ações de impacto social;
 - ajuda de custo pra quem produz conteúdo pro projeto;
 
-Pra fazer uma contribuição financeira, você pode acessar nosso [Apoia-se](https://apoia.se/ensine-uma-crianca)
+Pra fazer uma contribuição financeira, você pode acessar nosso [Apoia-se.](https://apoia.se/ensine-uma-crianca)
 
 <a href="https://apoia.se/ensine-uma-crianca" target="_blank">
   <img width="250" alt="Logo do Apoia-se com link para a campanha" src="/contribuicao-financeira/apoia-se.png"/>
 </a>
 
-Pra saber mais detalhes, veja a página de [Contribuição Financeira](/contribuicao-financeira/).
+Pra saber mais detalhes, veja a página de [Contribuição Financeira.](/contribuicao-financeira/)
