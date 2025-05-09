@@ -18,7 +18,19 @@ params:
 
 **Projeto no Scratch:** [O Pequeno Príncipe](https://scratch.mit.edu/projects/1171484203/)
 
-**Imagens usadas no vídeo**: [clique para baixar](./assets.zip)
+**Imagens usadas no projeto**: [clique para baixar](./imagens/completo.zip)
+
+{{< details summary="Ver todas as imagens" >}}
+<img class="border-1" alt="" src="./imagens/cabra.png"/>
+<img class="border-1" alt="" src="./imagens/jiboia_elefante_opaco.png"/>
+<img class="border-1" alt="" src="./imagens/jiboia_elefante_raiox.png"/>
+<img class="border-1" alt="" src="./imagens/ovelha_1.png"/>
+<img class="border-1" alt="" src="./imagens/ovelha_2.png"/>
+<img class="border-1" alt="" src="./imagens/ovelha_pequena.png"/>
+<img class="border-1" alt="" src="./imagens/pequeno_principe.png"/>
+<img class="border-1" alt="" src="./imagens/pessoinha_incrivel_pequeno_principe.png"/>
+<img class="border-1" alt="" src="./imagens/planeta.png"/>
+{{< /details >}}
 
 ---
 
@@ -36,11 +48,11 @@ Esse livro agora é patrimônio da humanidade, já que se tornou domínio públi
 
 As imagens escaneadas você pode encontrar [nesse link,](http://users.uoa.gr/~nektar/arts/tributes/antoine_de_saint-exupery_le_petit_prince/the_little_prince.htm) que faz um tributo e preservação da obra.
 
-Além disso, caso você decida seguir o mesmo exemplo do vídeo, você pode baixar as imagens que usamos pra criar o jogo [clicando aqui.](./assets.zip).
+Além disso, caso você decida seguir o mesmo exemplo do vídeo, você pode baixar as imagens que usamos pra criar o jogo [clicando aqui,](./imagens/completo.zip) ou baixá-las individualmente na seção "Imagens para baixar" abaixo.
 
 Até agora, contemplamos até o capítulo 3 do livro. Conforme aprendermos novos conceitos no Scratch, vamos incrementar esse projeto até completarmos tudo!
 
-## Como fazer a atividade
+{{< details summary="Como fazer a atividade" >}}
 
 Nosso desafio é criar um livro de histórias! Nosso jogo deve conter vários cenários, que serão capítulos de uma história.
 
@@ -51,6 +63,10 @@ Devemos usar os conceitos que aprendemos sobre aparência e interação com o mo
 Como o projeto é um livro, devemos ter uma forma de passar de um capítulo pro outro, como setas nos cantos da tela, por exemplo.
 
 Por último, divirta-se ao fazer o desafio, e não tenha medo de recomeçar caso não esteja satisfeito.
+
+{{< /details >}}
+
+
 
 ## Correção, dúvidas e bugs
 
