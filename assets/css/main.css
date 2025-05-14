@@ -59,12 +59,14 @@ details {
 }
 
 details summary {
-  box-shadow: 0px 4px 3px -2px rgba(0, 0, 0, 1);
+  box-shadow: 0px 4px 3px -2px rgba(0, 0, 0, 0.6);
   border-radius: 1rem;
-  padding: 8px 0 0 8px;
+  padding: 2px 0 0 8px;
+  border: 2px solid black;
   background-color: var(--color-base-200);
   margin-bottom: 1rem;
   user-select: none;
+  color: black;
 }
 
 .btn {
@@ -102,4 +104,11 @@ img {
 
 .card-image-overlay h2 {
   text-shadow: ;
+}
+
+blockquote {
+  background-color: var(--color-base-200);
+  border-radius: var(--radius-xs);
+  border-radius: 1rem;
+  border: 2px solid black;
 }

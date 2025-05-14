@@ -15,7 +15,7 @@
     <div class="drawer">
       <input id="concept-drawer" type="checkbox" class="drawer-toggle" />
       <div class="drawer-content">
-        <div class="hero border-b-3 bg-base-200">
+        <div class="hero border-b-3 bg-base-200 border-2">
           <div class="hero-content text-center">
             <div class="max-w-md">
               <h1 class="text-5xl font-bold hidden">{{ .Site.Title }}</h1>
@@ -39,7 +39,7 @@
       <div class="drawer-side">
         <label class="z-1 cursor-pointer ml-2 mt-2" for="concept-drawer" aria-label="close sidebar">fechar</label>
         <label for="concept-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
-        <div class="navbar bg-base-100 shadow-sm p-4 prose rounded-br-2xl pb-36" id="concept-drawer-contents"></div>
+        <div class="navbar bg-base-100 shadow-sm p-4 prose rounded-br-2xl pb-36 border-2 h-full" id="concept-drawer-contents"></div>
       </div>
     </div>
     {{ partialCached "dock.html" . }}
