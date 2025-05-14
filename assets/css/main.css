@@ -58,6 +58,15 @@ details {
   cursor: pointer;
 }
 
+details summary {
+  box-shadow: 0px 4px 3px -2px rgba(0, 0, 0, 1);
+  border-radius: 1rem;
+  padding: 8px 0 0 8px;
+  background-color: var(--color-base-200);
+  margin-bottom: 1rem;
+  user-select: none;
+}
+
 .btn {
   font-weight: 300;
   border: 2px solid black;

@@ -1,5 +1,5 @@
 ---
-title: "6 - Desafio: Fiz um livro pra você"
+title: "6 - Fiz um livro pra você"
 date: 2025-05-06T14:17:00-03:00
 draft: false
 summary: "Começamos a construir nossa história \"O Pequeno Príncipe\"."
@@ -19,6 +19,10 @@ params:
 **Projeto no Scratch:** [O Pequeno Príncipe](https://scratch.mit.edu/projects/1171484203/)
 
 **Imagens usadas no projeto**: [clique para baixar](./imagens/completo.zip)
+
+**Projeto base, com atores personalizados inclusos**: [entre e faça uma cópia clicando em "Remix"](https://scratch.mit.edu/projects/1175229420/)
+
+
 
 {{< details summary="Ver todas as imagens" >}}
 <img class="border-1" alt="" src="./imagens/cabra.png"/>
