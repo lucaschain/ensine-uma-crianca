@@ -16,9 +16,11 @@ params:
 
 **Atividade:** [1 - Transmitindo Feitiços](https://projects.raspberrypi.org/pt-BR/projects/broadcasting-spells/)
 
-**Projeto pronto:** [Em breve](#)
+**Projeto pronto:** [contém spoilers](https://scratch.mit.edu/projects/1174054243/)
 
 ---
+
+{{< youtube PoLmHMFIXkU   >}}
 
 Parabéns! Você alcançou a segunda trilha de atividades! Ela vai ser mais desafiadora, mas vamos conhecer muitos conceitos úteis de eventos e lógica de programação.
 
