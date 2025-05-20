@@ -4,7 +4,7 @@ date: 2022-10-14T18:29:18-03:00
 draft: false
 ---
 
-Há um tipo de *bloco* especial que determina o começo de um *script* (conjunto de blocos).
+Há um tipo de *bloco* especial que determina o começo de um *script* (conjunto de blocos). Nós os chamamos carinhosamente de "Blocos de topete".
 
 Esses blocos têm um desenho especial curvado na parte de cima, identificando que não há outro bloco que ficará acima dele.
 
