@@ -30,16 +30,18 @@
         {{ block "footer" . }} {{ end }}
         <div class="hidden" id="concepts">
           {{ range where site.RegularPages "Section" "conceitos" }}
-          <div data-concept="{{ lower .File.BaseFileName }}">
+          <template data-concept="{{ lower .File.BaseFileName }}">
+            <div>
             {{ .Content }}
-          </div>
+            </div>
+          </template>
           {{ end }}
         </div>
       </div>
       <div class="drawer-side">
         <label class="z-1 cursor-pointer ml-2 mt-2" for="concept-drawer" aria-label="close sidebar">fechar</label>
         <label for="concept-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
-        <div class="navbar bg-base-100 shadow-sm p-4 prose rounded-br-2xl pb-36 border-2 h-full" id="concept-drawer-contents"></div>
+        <div class="navbar bg-base-100 shadow-sm p-4 prose rounded-br-2xl pb-36 border-2 min-h-full" id="concept-drawer-contents"></div>
       </div>
     </div>
     {{ partialCached "dock.html" . }}

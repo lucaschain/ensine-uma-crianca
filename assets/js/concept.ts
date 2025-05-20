@@ -17,11 +17,14 @@ export function bindConceitoLinks() {
       }
       event.preventDefault();
       const concept = anchor.href.split('/').filter(Boolean).pop();
-      const conceptCopy = conceptsContainer.querySelector("[data-concept='" + concept + "']")?.cloneNode(true)
+      const conceptTemplate = conceptsContainer.querySelector("[data-concept='" + concept + "']") as HTMLTemplateElement;
+      const conceptCopy = conceptTemplate?.content.cloneNode(true)
 
       if (conceptCopy) {
         drawerContentsContainer.replaceChildren(conceptCopy);
         (drawerCheckbox as HTMLInputElement).checked = true;
+      } else {
+        console.log("no concept copy found", concept, conceptCopy)
       }
     }
   });

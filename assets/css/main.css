@@ -54,11 +54,8 @@ body {
   font-family: "Hey Comic", sans-serif;
 }
 
-details {
-  cursor: pointer;
-}
-
 details summary {
+  cursor: pointer;
   box-shadow: 0px 4px 3px -2px rgba(0, 0, 0, 0.6);
   border-radius: 1rem;
   padding: 2px 0 0 8px;
