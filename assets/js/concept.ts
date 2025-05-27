@@ -15,12 +15,12 @@ export function bindConceitoLinks() {
         console.log('Missing elements', conceptsContainer, drawerContentsContainer, drawerCheckbox);
         return;
       }
-      event.preventDefault();
       const concept = anchor.href.split('/').filter(Boolean).pop();
       const conceptTemplate = conceptsContainer.querySelector("[data-concept='" + concept + "']") as HTMLTemplateElement;
       const conceptCopy = conceptTemplate?.content.cloneNode(true)
 
       if (conceptCopy) {
+        event.preventDefault();
         drawerContentsContainer.replaceChildren(conceptCopy);
         (drawerCheckbox as HTMLInputElement).checked = true;
       } else {
