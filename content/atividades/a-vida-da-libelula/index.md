@@ -20,6 +20,7 @@ params:
 
 ---
 
+{{< youtube n46xrTEJrTc >}}
 
 > ⚠️ A partir dessa atividade, o material original não possui tradução pra português. Por isso, vamos passar a incluir mais detalhes nas atividades aqui no site pra suprir essa falta. Colocaremos o título da seção do material também em inglês pra caso você queira continuar acompanhando a atividade pelo material original.
 
