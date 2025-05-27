@@ -67,8 +67,6 @@ O bloco `pergunte ... e espere` vai mostrar uma caixa de texto pro jogador. Assi
 
 O bloco arredondado `resposta` vai conter o texto que o jogador digitou.
 
-Pra saber mais sobre esse bloco, [clique aqui](/conceitos/pergunte/).
-
 Agora queremos colocar a `resposta` dentro de uma gaveta no Scratch. Pra fazer isso, vá na seção `variáveis` do blocos e clique em `Criar uma variável`. Digite "nome do jogador" no nome e clique em "OK".
 
 {{< video path=imagens/variavel-1.mp4 >}}
