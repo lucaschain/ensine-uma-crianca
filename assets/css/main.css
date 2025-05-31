@@ -109,3 +109,8 @@ blockquote {
   border-radius: 1rem;
   border: 2px solid black;
 }
+
+.whitestroke {
+  -webkit-text-stroke: 1px #EEE;
+  font-weight: bold;
+}

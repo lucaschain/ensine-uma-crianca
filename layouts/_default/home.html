@@ -1,10 +1,38 @@
 {{ define "main" }}
-  <div class="flex content-center max-w-5xl flex-wrap justify-evenly left-0 right-0 m-auto mt-10 gap-y-10">
+  <div class="bg-secondary py-2 border-b-3 max-w-3xl m-auto left-0 right-0 border-l-3 border-r-3 rounded-2xl rounded-tr-none rounded-tl-none max-sm:rounded-br-none max-sm:rounded-bl-none max-sm:border-l-0 max-sm:border-r-0">
+    <div class="flex content-center max-w-3xl left-0 right-0 m-auto px-2">
+      <h2>Mais recentes</h2>
+    </div>
+    <div class="flex content-center left-0 right-0 m-auto justify-between max-sm:overflow-x-auto max-sm:gap-2 px-2 py-1">
+      {{ range first 3 (where site.RegularPages.Reverse "Section" "atividades") }}
+        <a href="{{ .RelPermalink }}" class="relative">
+          <div class="w-60 rounded-2xl top-0 left-0 border-2 overflow-hidden relative h-12 transition-all hover:scale-105">
+            <div class="bg-secondary rounded-2 absolute w-full h-full top-0 left-0 opacity-20"></div>
+            <h3 class="w-full absolute card-title text-black justify-center top-0 left-0 right-0 bottom-0 margin-auto">{{ .LinkTitle }}</h3>
+            <figure class="w-full">
+              {{ $image := .Resources.Get "cover.png" }}
+              {{ $summary := .Summary }}
+              {{ with $image }}
+              <img
+                src="{{ .RelPermalink }}"
+                alt="{{ $summary }}" />
+              {{ end }}
+            </figure>
+          </div>
+        </a>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="flex content-center max-w-5xl mt-5 left-0 right-0 m-auto justify-center">
+    <h2 class="text-2xl">Jornada Principal</h2>
+  </div>
+  <div class="flex content-center max-w-5xl flex-wrap justify-evenly left-0 right-0 m-auto mt-5 gap-y-10">
   {{ range where site.RegularPages "Section" "atividades" }}
     <a href="{{ .RelPermalink }}">
-      <div class="card bg-base-200 w-72 shadow-sm border-2 mx-2 transition-all hover:scale-120 rounded-2xl">
+      <div class="card bg-base-200 w-72 shadow-sm border-2 mx-2 transition-all hover:scale-105 rounded-2xl duration-200">
         <div class="card-image-overlay w-full rounded-2xl rounded-br-none rounded-bl-none top-0 left-0 border-b-2">
-          <h2 class="card-title text-black mt-1 ml-3 text-shadow-[0px_0px_5px_rgb(255_255_255_/_1)]">{{ .LinkTitle }}</h2>
+          <h3 class="card-title text-black mt-1 ml-3">{{ .LinkTitle }}</h3>
         </div>
         <figure>
           {{ $image := .Resources.Get "cover.png" }}
