@@ -1,5 +1,5 @@
 ---
-title: "8 - A Vida da Libélula"
+title: "A Vida da Libélula"
 date: 2025-05-19T13:27:00-03:00
 draft: false
 summary: "Vamos criar um jogo de controlar e desenvolver uma libélula"

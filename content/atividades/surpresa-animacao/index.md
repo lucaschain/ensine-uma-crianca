@@ -1,5 +1,5 @@
 ---
-title: "5 - Surpresa! Animação"
+title: "Surpresa! Animação"
 date: 2025-04-17T15:39:00-03:00
 draft: false
 summary: "Criando um roteiro e separando seu código em partes"

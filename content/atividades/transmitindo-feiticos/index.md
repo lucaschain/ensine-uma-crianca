@@ -1,5 +1,5 @@
 ---
-title: "7 - Transmitindo Feitiços"
+title: "Transmitindo Feitiços"
 date: 2025-05-14T13:13:00-03:00
 draft: false
 summary: "Entendendo o sistema de mensagens do Scratch de uma forma divertida!"

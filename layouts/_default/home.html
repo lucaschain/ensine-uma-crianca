@@ -3,21 +3,24 @@
     <div class="flex content-center max-w-3xl left-0 right-0 m-auto px-2">
       <h2>Mais recentes</h2>
     </div>
-    <div class="flex content-center left-0 right-0 m-auto justify-between max-sm:overflow-x-auto max-sm:gap-2 px-2 py-1">
+    <div class="flex content-center left-0 right-0 m-auto justify-between max-sm:overflow-x-auto max-sm:gap-2 px-2 max-sm:py-2">
       {{ range first 3 (where site.RegularPages.Reverse "Section" "atividades") }}
         <a href="{{ .RelPermalink }}" class="relative">
-          <div class="w-60 rounded-2xl top-0 left-0 border-2 overflow-hidden relative h-12 transition-all hover:scale-105">
-            <div class="bg-secondary rounded-2 absolute w-full h-full top-0 left-0 opacity-20"></div>
-            <h3 class="w-full absolute card-title text-black justify-center top-0 left-0 right-0 bottom-0 margin-auto">{{ .LinkTitle }}</h3>
-            <figure class="w-full">
-              {{ $image := .Resources.Get "cover.png" }}
-              {{ $summary := .Summary }}
-              {{ with $image }}
-              <img
-                src="{{ .RelPermalink }}"
-                alt="{{ $summary }}" />
-              {{ end }}
-            </figure>
+          <div class="w-60 transition-all hover:scale-105">
+            <div class="overflow-hidden relative h-12 rounded-2xl border-2">
+              <div class="bg-secondary rounded-2 absolute w-full h-full top-0 left-0 opacity-20"></div>
+              <h3 class="w-full absolute card-title text-black justify-center top-0 left-0 right-0 bottom-0 margin-auto">{{ .LinkTitle }}</h3>
+              <figure class="w-full">
+                {{ $image := .Resources.Get "cover.png" }}
+                {{ $summary := .Summary }}
+                {{ with $image }}
+                <img
+                  src="{{ .RelPermalink }}"
+                  alt="{{ $summary }}" />
+                {{ end }}
+              </figure>
+            </div>
+            <div class="badge absolute border-black bg-base-200 badge-sm" style="right:-8px;top:-8px;">{{ math.Add .Weight -1 }}</div>
           </div>
         </a>
       {{ end }}
@@ -46,6 +49,7 @@
         <div class="card-body p-3 min-h-17">
           <p>{{ .Summary }}</p>
         </div>
+        <div class="badge absolute border-black bg-secondary" style="right:-12px;top:-12px;">{{ math.Add .Weight -1 }}</div>
       </div>
     </a>
   {{ end }}

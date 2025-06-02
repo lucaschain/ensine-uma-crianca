@@ -1,5 +1,5 @@
 ---
-title: "6 - Fiz um livro pra você"
+title: "Fiz um livro pra você"
 date: 2025-05-06T14:17:00-03:00
 draft: false
 summary: "Começamos a construir nossa história \"O Pequeno Príncipe\"."

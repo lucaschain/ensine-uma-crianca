@@ -1,5 +1,5 @@
 ---
-title: "4 - Olhos Bobos"
+title: "Olhos Bobos"
 date: 2025-04-17T15:39:00-03:00
 draft: false
 summary: "Fazendo interações com o mouse e efeitos especiais"

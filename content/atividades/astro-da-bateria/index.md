@@ -1,5 +1,5 @@
 ---
-title: "9 - Astro da Bateria"
+title: "Astro da Bateria"
 date: 2025-05-27T13:00:00-03:00
 draft: false
 summary: "Usando variáveis para contar pontos e comprar melhorias"

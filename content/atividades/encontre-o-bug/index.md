@@ -1,5 +1,5 @@
 ---
-title: "3 - Encontre o Bug"
+title: "Encontre o Bug"
 date: 2025-03-21T13:30:00-03:00
 draft: false
 summary: "Fazendo um jogo de encontrar insetos"

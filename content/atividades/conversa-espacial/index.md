@@ -1,5 +1,5 @@
 ---
-title: "1 - Conversa Espacial"
+title: "Conversa Espacial"
 date: 2022-10-13T13:25:00-03:00
 draft: false
 summary: "Como fazer atores falarem"

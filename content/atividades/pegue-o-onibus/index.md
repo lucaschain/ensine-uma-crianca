@@ -1,5 +1,5 @@
 ---
-title: "2 - Pegue o Ônibus"
+title: "Pegue o Ônibus"
 date: 2022-10-13T13:24:00-03:00
 draft: false
 summary: "Aprendendo movimentação no Scratch"
