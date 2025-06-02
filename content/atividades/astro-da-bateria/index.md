@@ -20,6 +20,8 @@ params:
 
 ---
 
+{{< youtube _a9kZD6I0_Y >}}
+
 Chegamos em outra atividade musical! Essa em particular me deixa muito feliz por que bateria é meu instrumento favorito!
 
 Vamos aprender a clicar um jogo "clicker": onde a jogabilidade envolve cliques de mouse pra ganhar pontos, comprar melhorias e aumentar seus ganhos.
