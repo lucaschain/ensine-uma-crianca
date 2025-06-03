@@ -14,7 +14,7 @@ params:
 
 **Módulo:** [1 - Mais Scratch](https://projects.raspberrypi.org/pt-BR/pathways/more-scratch)
 
-**Atividade:** [3 - Astro da Bateria](https://projects.raspberrypi.org/en/projects/drum-star/)
+**Atividade:** [3 - Drum Star](https://projects.raspberrypi.org/en/projects/drum-star/)
 
 **Projeto pronto:** [contém spoilers](https://scratch.mit.edu/projects/1181357159/)
 

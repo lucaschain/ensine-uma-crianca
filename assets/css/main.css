@@ -99,10 +99,6 @@ img {
   background-color: #C59AEF99;
 }
 
-.card-image-overlay h2 {
-  text-shadow: ;
-}
-
 blockquote {
   background-color: var(--color-base-200);
   border-radius: var(--radius-xs);
@@ -110,7 +106,6 @@ blockquote {
   border: 2px solid black;
 }
 
-.whitestroke {
-  -webkit-text-stroke: 1px #EEE;
-  font-weight: bold;
+.latest-preview:hover .latest-preview-overlay {
+  opacity: 60%;
 }
