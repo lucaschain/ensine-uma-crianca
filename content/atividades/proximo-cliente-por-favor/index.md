@@ -20,6 +20,8 @@ params:
 
 ---
 
+{{< youtube zwx_a06w6Oc  >}}
+
 O jogo que você vai aprender a fazer hoje pode ser o início de uma ideia pra criar um sistema de mercados!
 
 No projeto de hoje, vamos criar um catálogo de produtos que um cliente pode colocar no carrinho e comprar.
