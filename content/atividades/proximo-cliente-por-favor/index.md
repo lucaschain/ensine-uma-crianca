@@ -20,7 +20,7 @@ params:
 
 ---
 
-{{< youtube zwx_a06w6Oc  >}}
+{{< youtube uF5zlagohh0 >}}
 
 O jogo que você vai aprender a fazer hoje pode ser o início de uma ideia pra criar um sistema de mercados!
 
