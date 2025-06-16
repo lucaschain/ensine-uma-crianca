@@ -16,9 +16,11 @@ params:
 
 **Atividade:** [5 - Não caia!](https://projects.raspberrypi.org/pt-BR/projects/dont-fall-in)
 
-**Projeto pronto:** [contém spoilers](#)
+**Projeto pronto:** [contém spoilers](https://scratch.mit.edu/projects/1186975235/)
 
 ---
+
+{{< youtube ouyedZ41Udw >}}
 
 Chegou a hora de criarmos um jogo que vai tirar o sono das pessoas: quem errar o tempo, cai na lava.
 
