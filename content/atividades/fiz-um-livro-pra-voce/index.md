@@ -2,7 +2,7 @@
 title: "Fiz um livro pra você"
 date: 2025-05-06T14:17:00-03:00
 draft: false
-summary: "Começamos a construir nossa história \"O Pequeno Príncipe\"."
+summary: 'Começamos a construir nossa história "O Pequeno Príncipe".'
 weight: 7
 aliases:
   - /6
@@ -21,8 +21,6 @@ params:
 **Imagens usadas no projeto**: [clique para baixar](./imagens/completo.zip)
 
 **Projeto base, com atores personalizados inclusos**: [entre e faça uma cópia clicando em "Remix"](https://scratch.mit.edu/projects/1175229420/)
-
-
 
 {{< details summary="Ver todas as imagens" >}}
 <img class="border-1" alt="" src="./imagens/cabra.png"/>
@@ -52,7 +50,7 @@ Esse livro agora é patrimônio da humanidade, já que se tornou domínio públi
 
 As imagens escaneadas você pode encontrar [nesse link,](http://users.uoa.gr/~nektar/arts/tributes/antoine_de_saint-exupery_le_petit_prince/the_little_prince.htm) que faz um tributo e preservação da obra.
 
-Além disso, caso você decida seguir o mesmo exemplo do vídeo, você pode baixar as imagens que usamos pra criar o jogo [clicando aqui,](./imagens/completo.zip) ou baixá-las individualmente na seção "Imagens para baixar" abaixo.
+Além disso, caso você decida seguir o mesmo exemplo do vídeo, você pode baixar as imagens que usamos pra criar o jogo [clicando aqui](./imagens/completo.zip), ou baixá-las individualmente na seção "Imagens para baixar" acima.
 
 Até agora, contemplamos até o capítulo 3 do livro. Conforme aprendermos novos conceitos no Scratch, vamos incrementar esse projeto até completarmos tudo!
 
@@ -69,8 +67,6 @@ Como o projeto é um livro, devemos ter uma forma de passar de um capítulo pro 
 Por último, divirta-se ao fazer o desafio, e não tenha medo de recomeçar caso não esteja satisfeito.
 
 {{< /details >}}
-
-
 
 ## Correção, dúvidas e bugs
 

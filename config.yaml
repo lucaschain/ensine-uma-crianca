@@ -1,10 +1,10 @@
-baseURL: 'https://www.ensineumacrianca.com.br/'
-languageCode: 'pt-BR'
-defaultContentLanguage: 'pt'
-title: 'Ensine uma Criança'
+baseURL: "https://www.ensineumacrianca.com.br/"
+languageCode: "pt-BR"
+defaultContentLanguage: "pt"
+title: "Ensine uma Criança"
 
 params:
-  description: 'Um roteiro pra te ajudar a guiar o aprendizado de uma criança em tecnologia, usando <a target="_blank" href="https://pt.wikipedia.org/wiki/Scratch">Scratch</a>.'
+  description: 'Atividades divertidas e uma jornada de aprendizado em tecnologia para crianças e adolescentes, usando <a target="_blank" href="https://pt.wikipedia.org/wiki/Scratch">Scratch</a>.'
   images:
     - images/web-app-manifest-512x512.png
 
@@ -21,18 +21,18 @@ build:
   buildStats:
     enable: true
   cachebusters:
-  - source: assets/notwatching/hugo_stats\.json
-    target: css
-  - source: (postcss|tailwind)\.config\.js
-    target: css
+    - source: assets/notwatching/hugo_stats\.json
+      target: css
+    - source: (postcss|tailwind)\.config\.js
+      target: css
 
 module:
   mounts:
-  - source: assets
-    target: assets
-  - disableWatch: true
-    source: hugo_stats.json
-    target: assets/notwatching/hugo_stats.json
+    - source: assets
+      target: assets
+    - disableWatch: true
+      source: hugo_stats.json
+      target: assets/notwatching/hugo_stats.json
 
 security:
   exec:
