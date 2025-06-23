@@ -1,6 +1,6 @@
 ---
 title: "Bichinho Virtual"
-date: 2025-10-13T13:25:00-03:00
+date: 2025-06-23T13:25:00-03:00
 draft: false
 summary: "Crie seu próprio tamagotchi"
 weight: 13
