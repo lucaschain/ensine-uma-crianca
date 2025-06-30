@@ -14,7 +14,7 @@ params:
 
 **Módulo:** [2 - Scratch Mais Longe](https://projects.raspberrypi.org/en/pathways/further-scratch)
 
-**Atividade:** [1 - Nature rover](https://projects.raspberrypi.org/pt-BR/pathways/further-scratch)
+**Atividade:** [1 - Nature rover](https://projects.raspberrypi.org/en/projects/nature-rover)
 
 **Projeto pronto:** [contém spoilers](https://scratch.mit.edu/projects/1192464470/)
 
@@ -23,6 +23,8 @@ params:
 **Projeto base, com atores personalizados inclusos**: [entre e faça uma cópia clicando em "Remix"](https://scratch.mit.edu/projects/1192478341/)
 
 ---
+
+{{< youtube SXlWJAGIvNY >}}
 
 Olá! Esse aqui é o primeiro projeto da última trilha de Scratch do material do Code Club, mas não se preocupe! Quando acabar, temos mais conteúdo por vir.
 
