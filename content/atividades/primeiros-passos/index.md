@@ -11,7 +11,7 @@ params:
     - cover.png
 ---
 
-{{< youtube tex6bCu1nT8  >}}
+{{< youtube XN3403JzHME  >}}
 
 Antes de começar, lembre-se de [criar uma conta](https://scratch.mit.edu/join) na plataforma Scratch.
 

@@ -1,5 +1,5 @@
 ---
-title: "Não caia!"
+title: "Não Caia!"
 date: 2025-06-10T08:19:00-03:00
 draft: false
 summary: "Fazendo um jogo de ação pra testar as habilidades de quem jogar"
