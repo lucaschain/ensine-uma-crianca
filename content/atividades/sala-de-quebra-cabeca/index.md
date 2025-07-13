@@ -14,13 +14,15 @@ params:
 
 **Módulo:** [2 - Scratch Mais Longe](https://projects.raspberrypi.org/en/pathways/further-scratch)
 
-**Atividade:** [1 - Sala de quebra-cabeça](https://projects.raspberrypi.org/pt-BR/projects/puzzle-room/)
+**Atividade:** [2 - Sala de quebra-cabeça](https://projects.raspberrypi.org/pt-BR/projects/puzzle-room/)
 
 **Projeto pronto:** [contém spoilers](https://scratch.mit.edu/projects/1196216455/)
 
 **Projeto base, com atores personalizados inclusos**: [entre e faça uma cópia clicando em "Remix"](https://scratch.mit.edu/projects/1196216373/)
 
 ---
+
+{{< youtube B-f2bzWINUA >}}
 
 E aí, internet! chegou a hora de aplicarmos o que aprendemos na atividade anterior ([Astromóvel da Natureza](/atividades/astromovel-da-natureza/)), além de utilizar operadores e variáveis pra darmos uma lista de tarefas a um astronauta.
 
