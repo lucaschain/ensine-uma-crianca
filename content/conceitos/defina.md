@@ -24,6 +24,12 @@ Veja como ficaria o exemplo anterior se usarmos o bloco `defina`:
 
 {{< image path="/conceitos/imagens/defina-2.png" alt="exemplo anterior, sem repetições, usando o bloco defina" >}}
 
-Além disso, é possível adicionar **parâmetros** ao seu bloco - conforme novas atividades aparecerem, vou complementar essa página sobre o bloco de acordo com as necessidades do exercício.
+Além disso, nosso bloco pode ter _entradas_, que são os "espaços em branco" que podem ser preenchido:
 
-Enquanto isso, te convido a explorar o bloco pra ver do que ele é capaz!
+{{< image path="/conceitos/imagens/defina-3.png" alt="exemplo de entradas no bloco vá para" >}}
+
+Essas "entradas" nos permitem usar o bloco com alguns valores. O bloco `vá para x ... y ...`, por exemplo, nos permite escolher as posições que o ator vai.
+
+Quando criamos uma entrada no nosso bloco, ganhamos uma "variável especial", que podemos usar dentro do bloco `defina`. Essa variável vai conter o valor colocado quando o bloco for usado:
+
+{{< image path="/conceitos/imagens/defina-4.png" alt="as entradas e seu valor dentro do bloco defina" >}}
