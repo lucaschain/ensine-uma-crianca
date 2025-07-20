@@ -20,6 +20,8 @@ params:
 
 ---
 
+{{< youtube ASCQ9DleRKg >}}
+
 Fala, internet! Hoje vai ser mais um dia de arte digital, por que vamos fazer um criador de mandalas.
 
 A palavra "mandala" significa "círculo", na língua sânscrita, e elas são comuns nas tradições budistas e hindu.
