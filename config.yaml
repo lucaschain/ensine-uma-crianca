@@ -9,8 +9,8 @@ params:
     - images/web-app-manifest-512x512.png
 
 permalinks:
-  atividades: /atividades/:filename/
-  conceitos: /conceitos/:filename/
+  atividades: /atividades/:contentbasename/
+  conceitos: /conceitos/:contentbasename/
 
 markup:
   goldmark:
