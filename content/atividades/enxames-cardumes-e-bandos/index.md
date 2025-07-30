@@ -20,6 +20,8 @@ params:
 
 ---
 
+{{< youtube aFlA4e94CD4 >}}
+
 Fala, internet! No, exercício de hoje, vamos aprender a simular o comportamento de grupos de animais (ou qualquer outra coisa que se move!).
 
 O material original não tem tradução, então, como de costume, vou trazer todos os detalhes pra cá, assim você não precisa ficar traduzindo.
