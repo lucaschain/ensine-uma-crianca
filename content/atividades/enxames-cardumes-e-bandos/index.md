@@ -2,7 +2,7 @@
 title: "Enxames, cardumes e bandos"
 date: 2025-07-24T16:30:00-03:00
 draft: false
-summary: "Usando clones pra dimular comportamento de grupos de animais"
+summary: "Usando clones pra simular comportamento de grupos de animais"
 weight: 17
 aliases:
   - /16
