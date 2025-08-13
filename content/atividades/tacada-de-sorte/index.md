@@ -20,6 +20,8 @@ params:
 
 ---
 
+{{< youtube D-DrYcVihNM   >}}
+
 E aí, internet!
 
 A primeira coisa que quero pedir é permissão pra tradução livre do episódio original 😄. A tradução literal "Boas-vindas ao meu mundo" não fazia muito sentido com a temática que escolhemos.
