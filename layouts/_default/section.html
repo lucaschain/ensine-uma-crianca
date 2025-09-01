@@ -2,7 +2,7 @@
   <main>
     {{ .Content }}
 
-    {{ $pages := where site.RegularPages "Type" "atividades" }}
+    {{ $pages := where site.RegularPages "Type" .Section }}
     {{ $paginator := .Paginate $pages }}
 
     {{ range $paginator.Pages }}

@@ -10,6 +10,7 @@ params:
 
 permalinks:
   atividades: /atividades/:contentbasename/
+  alex-biscoito: /alex-biscoito/:contentbasename/
   conceitos: /conceitos/:contentbasename/
 
 markup:
