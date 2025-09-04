@@ -9,8 +9,9 @@
     class="flex content-center left-0 right-0 m-auto justify-between max-sm:overflow-x-auto max-sm:gap-2 px-2 max-sm:py-2"
   >
     {{ $pages := site.RegularPages.Reverse }}
-    {{ $sections := slice "atividades" "alex-biscoito" }}
-    {{ range first 3 (where $pages "Section" "in" $sections ) }}
+    {{ $atividades := (where $pages "Section" "atividades") }}
+    {{ $alex := (where $pages "Section" "alex-biscoito") }}
+    {{ range first 3 (append $atividades $alex) }}
     <a href="{{ .RelPermalink }}" class="relative">
       <div class="w-60 transition-all hover:scale-105">
         <div
@@ -25,8 +26,9 @@
             {{ .LinkTitle }}
           </h3>
           <figure class="w-full">
-            {{ $image := .Resources.Get "cover.png" }} {{ $summary := .Summary
-            }} {{ with $image }}
+            {{ $image := .Resources.Get "cover.png" }}
+            {{ $summary := .Summary }}
+            {{ with $image }}
             <img src="{{ .RelPermalink }}" alt="{{ $summary }}" />
             {{ end }}
           </figure>
