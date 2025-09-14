@@ -12,6 +12,6 @@ params:
     - cover.png
 ---
 
-{{< youtube 0rJ3N55F6s0 >}}
+{{< youtube KsVaw34L77c >}}
 
 Na Zona Polvilhosa, uma cerimônia marcante na vida de Alex Biscoito vai acontecer, veja o que é e aprenda como fazê-la no Scratch!
