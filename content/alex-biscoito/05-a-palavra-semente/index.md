@@ -12,6 +12,6 @@ params:
     - cover.png
 ---
 
-{{< youtube gy_TwCoV1rQ >}}
+{{< youtube 9rCyrlnlGOg >}}
 
 Há uma batata-canoa pronta pra retornar ao seu lugar de origem e levar Alex em direção ao ladrão. Alex deve tentar descobrir qual é a palavra-semente pra poder ativá-la!
