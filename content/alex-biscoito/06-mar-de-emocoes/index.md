@@ -2,7 +2,7 @@
 title: "Mar de Emoções"
 date: 2025-12-30T10:00:00-03:00
 draft: false
-summary: "Uma tempestade pegou Alex no mar-detox. O que vai acontecer?"
+summary: "Enquanto navegava pelo mar-detox, Alex Biscoito se deparou com uma tempestade forte."
 weight: 6
 aliases:
   - /alex-biscoito/6
